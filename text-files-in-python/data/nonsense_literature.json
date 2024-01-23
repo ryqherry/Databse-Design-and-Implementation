@@ -1,0 +1,20 @@
+[
+    {
+        "lastName": "Carroll",
+        "firstName": "Lewis",
+        "title": "Jabberwocky",
+        "year": 1871
+    },
+    {
+        "lastName": "Lear",
+        "firstName": "Edward",
+        "title": "The Jumblies",
+        "year": 1910
+    },
+    {
+        "lastName": "Bishop",
+        "firstName": "Elizabeth",
+        "title": "The Man-Moth",
+        "year": 1946
+    }
+]

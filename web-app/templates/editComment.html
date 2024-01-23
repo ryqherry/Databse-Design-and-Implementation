@@ -1,0 +1,18 @@
+{% extends 'base.html' %} {% block container %}
+<h2>Update</h2>
+<p>Edit a comment to the specified post in the MongoDB database collection.</p>
+<form method="POST" action="{{ url_for('edit_comment', mongoid=mongoid) }}">
+  <p>
+    Your name:
+    <input type="text" id="fcommentName" name="fcommentName" value="{{doc.commentName}}" /><br />
+  </p>
+  <p>
+    Comment:
+    <textarea id="fcomment" name="fcomment">{{doc.comment}}</textarea>
+  </p>
+  <p>
+    <a href="{{ url_for('read')}}">Cancel</a>
+    <input type="submit" name="post-btn" value="Save" />
+  </p>
+</form>
+{% endblock %}

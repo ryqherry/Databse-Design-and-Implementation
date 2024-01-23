@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Read</h2>
+<p>This page shows information pulled from a MongoDB database collection.
+        
+    {% for doc in docs %}
+    <div>
+        <hr class="solid">
+        <p class="post">
+            Posted by {{doc.name}} in {{doc.category}} at {{ doc.created_at.strftime("%H:%M on %d %B %Y") }}
+            </br>
+            <a href="{{ url_for('edit',mongoid=doc._id)}}">Edit</a> | <a href="{{ url_for('delete',mongoid=doc._id)}}">Delete</a> | <a href="{{ url_for('comment',mongoid=doc._id)}}">Comment</a> | <a href="{{ url_for('like',mongoid=doc._id)}}">Like</a>
+            </br>
+        </p>
+        <p>
+            {{ doc.message }}
+        </p>
+        
+        {% if doc.image != "" %}
+        <p>
+            <img src={{doc.image}} alt="image" width="500" height=auto>
+        </p>
+        {% endif %}
+
+        <p class="post">
+            Liked by {{doc.like}} people
+        </p>
+
+        {% if doc.comment != "" %}
+        <blockquote>
+        <p class="post">
+            Commented by {{doc.commentName}} at {{doc.commented_at.strftime("%H:%M on %d %B %Y") }}
+            </br>
+            <a href="{{ url_for('editComment',mongoid=doc._id)}}">Edit</a> | <a href="{{ url_for('deleteComment',mongoid=doc._id)}}">Delete</a>
+            </br>
+        </p>
+        <p>
+            {{ doc.comment }}
+        </p>
+        </blockquote>
+        {% endif %}
+            
+    </div>
+    {%endfor%}
+</p>
+{% endblock %}

@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Posts and Comments of the User</h2>
+<p>This page shows information pulled from a MongoDB database collection.
+    
+    {% if count == 0 %}
+    <p>No matched user!</p>
+    {% endif %}
+
+    {% for doc in docs %}
+    <div>
+        <hr class="solid">
+        {% if doc.name == name %}
+            <p class="post">
+                Posted by {{doc.name}} in {{doc.category}} at {{ doc.created_at.strftime("%H:%M on %d %B %Y") }}
+            </p>
+            <p>
+                {{ doc.message }}
+            </p>
+            
+            {% if doc.image != "" %}
+            <p>
+                <img src={{doc.image}} alt="image" width="500" height=auto>
+            </p>
+            {% endif %}
+
+            <p class="post">
+                Liked by {{doc.like}} people
+            </p>
+        {% endif %}
+
+        {% if doc.comment != "" %}
+            {% if doc.commentName == name %}
+            <blockquote>
+            <p class="post">
+                Commented by {{doc.commentName}} at {{doc.commented_at.strftime("%H:%M on %d %B %Y") }}
+            </p>
+            <p>
+                {{ doc.comment }}
+            </p>
+            </blockquote>
+            {% endif %}
+        {% endif %}
+            
+    </div>
+    {%endfor%}
+</p>
+{% endblock %}

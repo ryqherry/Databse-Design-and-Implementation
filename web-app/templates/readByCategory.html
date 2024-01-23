@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Posts and Comments of the category</h2>
+<p>This page shows information pulled from a MongoDB database collection.
+    
+    {% if count == 0 %}
+    <p>No matched category!</p>
+    {% endif %}
+
+    {% for doc in docs %}
+    <div>
+        <hr class="solid">
+        <p class="post">
+            Posted by {{doc.name}} in {{doc.category}} at {{ doc.created_at.strftime("%H:%M on %d %B %Y") }}
+        </p>
+        <p>
+            {{ doc.message }}
+        </p>
+            
+        {% if doc.image != "" %}
+        <p>
+            <img src={{doc.image}} alt="image" width="500" height=auto>
+        </p>
+
+        <p class="post">
+            Liked by {{doc.like}} people
+        </p>
+        {% endif %}
+
+        {% if doc.comment != "" %}
+        <blockquote>
+        <p class="post">
+            Commented by {{doc.commentName}} at {{doc.commented_at.strftime("%H:%M on %d %B %Y") }}
+        </p>
+        <p>
+            {{ doc.comment }}
+        </p>
+        </blockquote>
+        {% endif %}
+            
+    </div>
+    {%endfor%}
+</p>
+{% endblock %}

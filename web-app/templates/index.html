@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Welcome!</h2>
+<p>Welcome to the Flask app that relies on the manipulation of a MongoDB database. This is the home page. Start exploring the interesting functionalities of the app with just a few clicks on the links below.
+    <ul>
+        <li><a href="{{ url_for('read')}}">a page that displays all the posts</a></li>
+        <li><a href="{{ url_for('create')}}">a page with a form you can submit to create a new post</a></li>
+    </ul>
+</p>
+{% endblock %}

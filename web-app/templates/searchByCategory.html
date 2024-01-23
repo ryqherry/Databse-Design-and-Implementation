@@ -1,0 +1,11 @@
+{% extends 'base.html' %} {% block container %}
+<h2>Search for a category</h2>
+<p>Shows posts and comments by the specific category in the MongoDB database collection.</p>
+<form method="POST" action="{{ url_for('search_category') }}">
+  <p>Category you want to search for: <input type="text" id="fcategory" name="fcategory" /><br /></p>
+  <p>
+    <a href="{{ url_for('read')}}">Cancel</a>
+    <input type="submit" name="post-btn" value="Search" />
+  </p>
+</form>
+{% endblock %}

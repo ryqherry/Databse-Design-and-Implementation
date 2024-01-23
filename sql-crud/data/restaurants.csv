@@ -1,0 +1,1001 @@
+id,restaurant_name,category,price_tier,neighborhood,opening_time,closing_time,average_rating,good_for_kids
+1,Spinka-Zulauf,American,expensive,Midtown,9:09,23:17,4.8,false
+2,"Huel, Cassin and Schulist",American,expensive,Lower East Side,11:17,19:59,1.9,false
+3,Nitzsche Group,Korean,cheap,Greenwich Village,11:26,18:14,3.5,true
+4,Davis-Pfannerstill,Mexican,cheap,Kips Bay,11:48,22:12,5.0,true
+5,"Marks, Simonis and Schroeder",Chinese,expensive,Hell's Kitchen,8:57,22:35,3.2,true
+6,Graham-Denesik,Korean,cheap,Chelsea,8:19,22:40,4.5,false
+7,Fadel-Casper,French,medium,Hudson Yards,12:05,19:30,3.9,false
+8,"McClure, Collins and Wisozk",Italian,expensive,NoHo,9:16,19:44,1.2,true
+9,Howell Group,Fast Food,expensive,Chinatown,10:25,23:00,2.0,false
+10,Becker-Daniel,American,medium,Greenwich Village,9:49,22:32,1.7,true
+11,"Morar, Goodwin and McClure",Italian,cheap,Murray Hill,11:32,20:33,1.2,false
+12,"Block, Gutkowski and Frami",Thai,cheap,Greenwich Village,12:33,18:03,1.2,true
+13,Cummings Group,Chinese,cheap,Kips Bay,10:23,18:44,4.2,false
+14,"Toy, Steuber and Mayer",Mexican,expensive,Hudson Yards,9:49,18:19,3.9,true
+15,Homenick-Bruen,Korean,medium,Clinton,8:49,20:26,4.5,false
+16,"Harvey, Reinger and Volkman",American,medium,West Village,9:01,21:44,2.4,true
+17,Corwin-Howell,American,medium,Rose Hill,10:55,22:49,4.4,false
+18,"Ernser, Crona and Prohaska",French,cheap,Chinatown,9:30,18:48,3.5,true
+19,Toy-Krajcik,Korean,expensive,Gramercy Park,9:07,18:16,2.2,true
+20,Schneider-Rohan,American,cheap,Gramercy Park,11:03,23:57,5.0,true
+21,Harris and Sons,Fast Food,medium,West Village,11:13,21:39,1.3,false
+22,"Kirlin, Koelpin and Kovacek",Indian,medium,Greenwich Village,8:30,21:51,2.6,false
+23,Hickle LLC,Indian,medium,Chinatown,10:19,19:28,2.4,true
+24,"Fay, Torp and Johns",Japanese,cheap,Kips Bay,11:58,23:19,3.3,false
+25,D'Amore Inc,Korean,expensive,Little Italy,8:22,21:50,3.7,true
+26,Hodkiewicz Group,Chinese,cheap,Financial District,10:39,23:08,1.4,false
+27,Walter-Purdy,Thai,cheap,Lower East Side,9:26,18:24,3.3,true
+28,Walsh and Sons,Thai,expensive,NoHo,9:33,23:44,1.0,true
+29,"Keebler, McClure and Smith",Italian,cheap,Battery Park City,8:40,21:21,3.2,false
+30,Jacobs-Robel,French,cheap,Chelsea,8:48,18:30,4.0,true
+31,"Johns, Blick and Kihn",Korean,medium,NoHo,9:56,18:21,2.7,false
+32,Spencer Inc,Fast Food,expensive,Lower East Side,11:43,20:58,2.6,true
+33,"Ziemann, Bosco and Johns",Italian,medium,Lower East Side,12:06,22:13,4.4,false
+34,Jakubowski-Rau,American,cheap,Murray Hill,10:11,19:36,1.3,false
+35,Russel-Treutel,Korean,cheap,Chinatown,10:47,18:16,1.8,false
+36,Strosin LLC,Japanese,cheap,NoHo,11:52,19:44,5.0,true
+37,Hamill Inc,Thai,cheap,Chelsea,12:36,20:43,2.5,true
+38,Murphy Inc,Chinese,expensive,Murray Hill,9:05,23:50,3.2,false
+39,Von-Stehr,Thai,medium,SoHo,9:38,18:17,2.8,false
+40,"Hahn, Ondricka and Murray",Chinese,cheap,Tribeca,11:32,18:14,2.7,true
+41,Fadel Inc,Italian,medium,Greenwich Village,9:40,22:40,3.7,true
+42,"Conn, Marks and Beatty",Korean,cheap,West Village,9:30,18:16,2.2,true
+43,"Runolfsson, Schmitt and Cremin",Thai,medium,Clinton,10:24,22:21,1.0,false
+44,Gusikowski Inc,Italian,cheap,Tribeca,12:35,20:48,4.0,true
+45,"Brakus, Becker and Stehr",Fast Food,expensive,Murray Hill,9:45,18:12,3.7,false
+46,"Moen, Kunde and Beahan",Korean,medium,Chelsea,8:09,21:59,4.7,true
+47,"Trantow, Lesch and Daugherty",French,expensive,Kips Bay,8:42,18:26,2.4,false
+48,"Graham, Goodwin and Witting",French,cheap,NoHo,10:22,18:36,3.5,false
+49,"Koch, Marvin and O'Keefe",Japanese,expensive,Rose Hill,8:37,18:06,2.0,true
+50,Rath-Schroeder,Thai,medium,Greenwich Village,8:39,22:26,2.5,false
+51,Stoltenberg-Bahringer,Japanese,expensive,Little Italy,12:10,18:10,1.1,true
+52,Gulgowski-Blick,Indian,expensive,Midtown,10:25,19:39,1.7,true
+53,Botsford Inc,Fast Food,cheap,Clinton,10:46,21:27,3.4,true
+54,Stroman-Cummings,Fast Food,cheap,Tribeca,8:46,21:00,1.7,false
+55,"Jacobi, Metz and Monahan",Chinese,cheap,Hudson Yards,10:20,19:37,2.0,true
+56,Braun Group,Mexican,cheap,Little Italy,12:37,23:23,4.8,false
+57,"Erdman, Marvin and Leffler",Thai,medium,Chinatown,12:55,18:49,1.0,true
+58,Bechtelar-Funk,Mexican,medium,Kips Bay,9:18,21:33,3.5,true
+59,Nicolas-Collier,Korean,medium,SoHo,9:37,18:37,4.9,true
+60,"Breitenberg, Shields and McDermott",Indian,expensive,Kips Bay,10:54,18:35,3.4,true
+61,Kozey Group,Chinese,cheap,Battery Park City,10:40,18:57,4.5,true
+62,VonRueden LLC,Thai,cheap,Kips Bay,10:10,23:20,1.6,true
+63,"Spinka, Konopelski and Dickens",Fast Food,medium,Murray Hill,12:58,20:51,4.2,false
+64,Schuster-Hamill,Indian,medium,Gramercy Park,12:13,22:56,1.7,false
+65,"Beahan, Durgan and Streich",Indian,medium,Battery Park City,11:17,20:04,3.7,true
+66,Turner and Sons,Japanese,expensive,Chinatown,12:45,22:57,4.6,true
+67,Wiegand and Sons,Italian,expensive,West Village,10:21,21:41,2.1,true
+68,Haag Inc,Korean,expensive,Battery Park City,12:45,20:13,3.0,true
+69,"Batz, Mitchell and Brown",Fast Food,medium,Hell's Kitchen,11:51,21:59,4.3,false
+70,"Brekke, Zulauf and Yost",Japanese,medium,SoHo,11:09,18:18,1.2,true
+71,Koelpin-Reilly,Thai,cheap,Hell's Kitchen,12:57,21:26,3.8,true
+72,Zulauf-Flatley,French,expensive,NoHo,12:09,22:19,1.6,false
+73,Predovic-Robel,Indian,cheap,Chinatown,9:39,21:50,4.7,false
+74,Lesch Group,Italian,medium,Gramercy Park,10:47,21:54,3.3,false
+75,Larkin LLC,Thai,expensive,Little Italy,12:00,18:08,4.3,false
+76,Gaylord-Dicki,American,medium,Lower East Side,12:06,18:26,1.6,false
+77,Hagenes Group,American,cheap,Battery Park City,12:18,19:53,1.7,false
+78,Bartell LLC,French,cheap,West Village,9:31,20:34,4.8,false
+79,"Stokes, Ratke and Bernhard",American,cheap,Kips Bay,12:45,22:04,1.2,true
+80,Trantow LLC,Fast Food,expensive,NoHo,9:52,19:40,1.6,true
+81,"Hirthe, Beahan and Doyle",French,medium,Financial District,11:06,22:37,2.4,false
+82,"Kerluke, Rosenbaum and Harvey",Indian,medium,Chinatown,11:56,19:26,3.5,true
+83,Ratke-Friesen,Japanese,expensive,West Village,9:11,19:12,3.1,true
+84,Quitzon and Sons,Japanese,expensive,Greenwich Village,12:57,20:45,5.0,true
+85,"Greenfelder, Crooks and Conroy",Korean,expensive,Rose Hill,9:08,21:36,2.3,false
+86,Carroll-Volkman,Chinese,medium,Murray Hill,10:44,22:07,3.7,true
+87,Raynor Group,Indian,cheap,Hudson Yards,11:32,20:24,1.3,true
+88,Dickens-Towne,Italian,medium,Little Italy,8:13,19:46,2.2,true
+89,Roberts LLC,Italian,cheap,Gramercy Park,11:02,22:28,4.8,true
+90,Hackett-Wolf,Italian,cheap,Gramercy Park,8:23,19:53,2.6,false
+91,Paucek Inc,Chinese,medium,Lower East Side,8:28,20:19,4.6,false
+92,"Ritchie, Yost and Macejkovic",American,medium,Kips Bay,8:43,23:28,4.3,false
+93,Beahan and Sons,Chinese,cheap,Little Italy,8:25,23:18,1.1,true
+94,Roob-Lebsack,Fast Food,expensive,Gramercy Park,11:40,18:55,4.4,false
+95,"Hayes, Lind and Oberbrunner",Italian,cheap,Rose Hill,9:42,18:32,3.1,false
+96,Mitchell LLC,Japanese,medium,Midtown,8:21,19:15,2.8,true
+97,VonRueden Group,French,medium,West Village,9:11,21:39,1.7,false
+98,Cronin Group,Korean,cheap,Midtown,10:00,19:05,3.4,false
+99,Bernier-DuBuque,Fast Food,medium,NoHo,8:40,19:25,1.5,true
+100,Toy-Stoltenberg,Fast Food,medium,Clinton,12:56,21:33,2.2,false
+101,Hills-Baumbach,Mexican,medium,NoHo,12:29,21:17,3.4,true
+102,"Gerhold, Morissette and Roob",Mexican,cheap,Kips Bay,12:42,18:10,1.9,true
+103,Huel-Dach,Fast Food,medium,SoHo,12:03,22:14,4.2,false
+104,Hilll-Wintheiser,Japanese,medium,Clinton,8:27,19:38,1.3,false
+105,Shields LLC,Indian,expensive,SoHo,9:08,22:03,2.0,true
+106,Thiel-Schiller,Korean,medium,Battery Park City,11:02,23:09,3.0,true
+107,"Brekke, Kuvalis and Wolf",Indian,medium,Hell's Kitchen,11:12,21:07,2.5,false
+108,"Tillman, Harvey and Wiegand",Korean,medium,Hell's Kitchen,8:16,21:05,1.5,true
+109,Bauch-Wilderman,Chinese,expensive,Hudson Yards,12:28,23:51,2.9,false
+110,Barton LLC,Japanese,medium,Little Italy,8:57,19:26,2.1,true
+111,Strosin-Gulgowski,Chinese,medium,Rose Hill,12:38,18:59,4.0,true
+112,Kreiger Group,Japanese,expensive,Midtown,10:52,18:05,4.9,false
+113,"Gaylord, Dietrich and Hettinger",Fast Food,expensive,SoHo,11:09,18:38,3.9,false
+114,Tremblay Group,Mexican,cheap,Financial District,12:31,21:49,3.8,true
+115,"Brown, Davis and Lind",Chinese,medium,Tribeca,12:59,21:27,2.8,true
+116,"Price, Gerhold and Torp",Indian,medium,Financial District,8:46,23:57,1.8,false
+117,Breitenberg Group,Mexican,medium,Kips Bay,12:55,22:33,2.3,false
+118,Terry Group,American,medium,Gramercy Park,9:00,23:05,4.8,true
+119,Legros Group,Japanese,cheap,West Village,11:33,23:44,4.3,false
+120,"Luettgen, Hilpert and Altenwerth",Indian,cheap,Lower East Side,8:51,18:06,2.7,false
+121,Runolfsson-Herman,Fast Food,expensive,Rose Hill,8:39,20:14,3.4,false
+122,"Hills, Daniel and Terry",Japanese,expensive,West Village,12:14,22:43,2.3,true
+123,Nikolaus LLC,Japanese,expensive,Hell's Kitchen,8:53,20:44,2.2,true
+124,"Goldner, Barrows and Dietrich",Thai,medium,Chelsea,11:26,19:09,4.8,true
+125,Langworth-Gleichner,Thai,cheap,Greenwich Village,11:31,20:42,1.3,true
+126,Funk-Cassin,French,expensive,Greenwich Village,10:30,20:10,4.5,false
+127,Schinner-Wintheiser,Korean,cheap,Financial District,12:22,21:34,2.2,false
+128,"Crona, Daugherty and Gottlieb",American,cheap,Kips Bay,10:21,20:37,2.8,true
+129,"Kuvalis, Lockman and Predovic",Indian,cheap,Financial District,9:13,22:34,2.3,false
+130,"DuBuque, Macejkovic and Schuster",Mexican,expensive,Hell's Kitchen,11:53,21:18,1.8,false
+131,Mante-Cormier,Thai,medium,Battery Park City,12:38,18:14,2.0,false
+132,"Jacobson, Mitchell and Huels",Chinese,expensive,Tribeca,10:01,22:42,3.6,false
+133,Zemlak-Cartwright,French,expensive,SoHo,12:58,23:16,4.3,true
+134,Rolfson LLC,American,cheap,Greenwich Village,8:23,19:24,1.4,false
+135,Nienow-Runte,Indian,cheap,Battery Park City,9:37,23:52,3.6,false
+136,Stoltenberg-Runolfsson,Indian,medium,Greenwich Village,10:04,18:29,1.4,true
+137,Towne-Nolan,American,cheap,Battery Park City,11:25,19:25,1.4,false
+138,"Will, Mertz and Mayert",Italian,expensive,Rose Hill,12:55,20:43,4.3,false
+139,Romaguera-Bernhard,Chinese,cheap,Greenwich Village,8:55,19:04,4.8,true
+140,Kunze Group,French,cheap,Tribeca,10:13,23:36,3.9,true
+141,Collins-Stoltenberg,Indian,cheap,Kips Bay,10:59,22:26,1.2,false
+142,Hudson Group,Japanese,cheap,Battery Park City,10:36,21:36,4.6,false
+143,Crist LLC,Fast Food,cheap,Chelsea,10:03,19:49,1.5,false
+144,Schaden Group,Chinese,expensive,Hell's Kitchen,10:01,23:34,3.9,true
+145,Dickens-Koelpin,Fast Food,cheap,Murray Hill,8:31,23:57,4.5,false
+146,"Kerluke, Feest and Fay",Fast Food,cheap,Kips Bay,10:36,21:41,3.3,true
+147,"Hyatt, Goyette and Senger",Chinese,medium,Tribeca,10:37,21:28,2.7,true
+148,Brakus Group,Indian,cheap,Gramercy Park,9:47,19:26,2.5,false
+149,McGlynn-Ratke,Thai,expensive,Financial District,9:14,20:18,4.0,true
+150,Stokes and Sons,French,medium,Chinatown,12:19,23:00,4.9,false
+151,"Collier, Schroeder and Beer",French,cheap,Midtown,11:42,19:16,4.7,false
+152,Ziemann LLC,French,cheap,Murray Hill,9:57,18:09,3.2,true
+153,Wuckert LLC,Korean,cheap,Tribeca,8:04,20:21,1.8,false
+154,"Braun, Abshire and Crist",Indian,cheap,Little Italy,12:07,22:38,3.0,true
+155,Treutel-Bergstrom,Mexican,cheap,Midtown,11:47,21:04,4.6,true
+156,McCullough LLC,French,medium,Battery Park City,12:42,22:06,3.4,false
+157,Prosacco Inc,Chinese,medium,SoHo,9:06,23:37,2.0,true
+158,"Oberbrunner, Daugherty and Lesch",Indian,expensive,Greenwich Village,10:55,23:40,5.0,false
+159,Larson LLC,Indian,medium,Hudson Yards,9:49,19:12,2.8,true
+160,Hirthe-Lowe,Korean,cheap,Chelsea,8:57,23:34,4.4,false
+161,Denesik and Sons,Indian,cheap,Hudson Yards,11:37,23:07,2.6,true
+162,"Miller, Olson and Kertzmann",Thai,expensive,Rose Hill,12:14,23:10,4.4,true
+163,"Simonis, Boehm and Nader",Italian,medium,Hell's Kitchen,11:23,22:02,2.4,false
+164,Feest-Haley,Korean,medium,Battery Park City,11:26,20:25,2.9,false
+165,Klein-Schamberger,Chinese,cheap,SoHo,8:43,20:06,4.5,true
+166,Langosh Group,American,expensive,Greenwich Village,9:47,20:14,2.6,false
+167,Cassin-Wisozk,French,expensive,Little Italy,9:52,20:47,4.7,true
+168,Goldner-Streich,Italian,cheap,SoHo,9:34,21:39,3.6,false
+169,Douglas Group,Thai,cheap,Clinton,9:07,22:35,3.1,false
+170,Schuppe and Sons,Korean,cheap,Hell's Kitchen,9:18,20:48,1.8,true
+171,Schiller-Price,Fast Food,medium,Rose Hill,12:26,23:01,3.3,false
+172,Gerhold LLC,Thai,medium,Rose Hill,10:38,23:11,5.0,true
+173,"Koelpin, Adams and Blanda",Thai,cheap,Battery Park City,12:29,20:30,3.7,false
+174,"Zemlak, Kub and Leannon",Fast Food,cheap,Chelsea,11:20,20:31,1.4,true
+175,Keebler-Fadel,Japanese,medium,Battery Park City,10:11,18:18,2.8,true
+176,O'Connell and Sons,Chinese,cheap,SoHo,9:58,21:14,3.3,false
+177,Macejkovic-Murphy,Italian,expensive,Gramercy Park,11:36,18:46,3.0,false
+178,Rohan-Hoppe,Korean,cheap,SoHo,8:51,23:46,2.5,false
+179,Kessler-Bogisich,Indian,cheap,Financial District,10:02,21:42,2.1,false
+180,"Macejkovic, Kulas and Schneider",French,medium,Financial District,12:01,22:09,3.6,true
+181,Nienow Group,French,medium,Rose Hill,10:10,23:24,4.2,true
+182,O'Kon-Mertz,Korean,expensive,Battery Park City,11:44,19:02,1.3,true
+183,Greenfelder-O'Conner,Indian,expensive,Gramercy Park,8:25,21:21,3.5,true
+184,Lebsack-Quigley,American,medium,Battery Park City,12:57,18:44,3.3,true
+185,"O'Hara, Koss and Swaniawski",Chinese,medium,Murray Hill,8:34,18:51,4.5,true
+186,Barrows LLC,Thai,expensive,Lower East Side,9:48,18:57,3.3,false
+187,"Jerde, Lockman and Kihn",French,medium,Clinton,10:26,20:07,3.8,false
+188,"Flatley, Okuneva and Oberbrunner",French,expensive,Murray Hill,12:01,19:57,4.9,false
+189,Hermann-Lind,Chinese,expensive,Greenwich Village,10:04,21:13,1.9,true
+190,Kautzer-Jacobi,Chinese,expensive,Hell's Kitchen,9:43,18:33,1.3,false
+191,"Bednar, Hane and Wintheiser",Chinese,expensive,Murray Hill,9:03,22:29,3.5,true
+192,"Carter, Fritsch and Luettgen",Fast Food,cheap,NoHo,8:26,18:25,2.7,true
+193,Jones LLC,Korean,expensive,Chelsea,8:33,18:45,4.2,true
+194,"O'Connell, Nader and Labadie",French,cheap,Tribeca,12:50,22:39,2.2,false
+195,Carter LLC,Chinese,medium,Midtown,11:27,20:34,1.5,false
+196,Stroman Inc,Chinese,expensive,West Village,10:20,20:04,1.3,true
+197,Hilpert-Gusikowski,French,medium,Rose Hill,9:05,20:06,4.0,true
+198,Kuhlman LLC,French,cheap,Hudson Yards,10:22,23:54,3.1,false
+199,"West, Hyatt and Schiller",French,cheap,Hudson Yards,9:41,22:01,3.6,true
+200,"Tremblay, Hintz and O'Connell",Mexican,cheap,NoHo,11:16,23:02,3.3,true
+201,Conn-Littel,Japanese,cheap,Gramercy Park,11:06,20:51,1.2,false
+202,Romaguera-Leuschke,Italian,cheap,Murray Hill,9:22,21:38,1.3,true
+203,Shields-Koch,Chinese,cheap,Battery Park City,11:40,23:00,3.8,true
+204,Johnston LLC,Thai,medium,Lower East Side,8:30,23:53,2.0,false
+205,"Jakubowski, Lebsack and Tillman",French,medium,Greenwich Village,10:16,20:48,2.5,false
+206,"Heaney, Stark and Dickinson",Indian,medium,Hell's Kitchen,8:32,23:54,4.9,true
+207,Carter Group,Korean,cheap,Battery Park City,11:40,22:16,2.2,true
+208,Klein-Green,Thai,cheap,Chinatown,12:29,22:04,2.8,false
+209,Reinger Inc,American,expensive,Lower East Side,11:33,19:37,1.2,false
+210,Skiles-Rath,Japanese,expensive,Tribeca,12:17,18:49,1.4,false
+211,Fadel Inc,Japanese,medium,Chelsea,12:26,20:03,1.8,false
+212,Hermann LLC,Italian,expensive,Hell's Kitchen,8:17,19:27,2.6,false
+213,"Toy, Bruen and Rempel",Indian,cheap,Murray Hill,10:49,19:00,4.3,false
+214,Mayert Group,Japanese,medium,Midtown,11:55,18:46,3.1,true
+215,Gaylord-Goodwin,Indian,cheap,Lower East Side,10:28,19:11,1.5,true
+216,Towne-Dach,Japanese,expensive,NoHo,12:26,22:10,4.8,false
+217,"Lemke, Ritchie and Lynch",French,cheap,Rose Hill,12:26,18:19,3.2,false
+218,Carter Inc,Thai,cheap,Clinton,9:17,20:10,3.8,false
+219,Herzog-Carter,Italian,cheap,West Village,8:45,18:24,1.1,false
+220,Bahringer-King,American,expensive,NoHo,11:14,23:13,1.6,true
+221,"Hudson, Berge and Pagac",Fast Food,cheap,Hell's Kitchen,11:37,23:23,3.3,true
+222,"Koch, Goodwin and Weimann",American,expensive,Murray Hill,12:17,22:25,1.5,true
+223,"Williamson, Boyer and Langosh",Thai,expensive,Tribeca,8:13,19:11,1.1,true
+224,Kohler-O'Hara,French,medium,Kips Bay,11:55,21:30,1.0,false
+225,Kunze-Sporer,Italian,medium,Greenwich Village,11:37,18:54,3.9,false
+226,O'Hara-Frami,Mexican,medium,Gramercy Park,12:15,18:20,4.1,true
+227,"Okuneva, DuBuque and Trantow",Italian,medium,Hudson Yards,11:00,21:30,1.0,false
+228,Konopelski Inc,American,medium,Lower East Side,10:31,19:07,1.5,false
+229,"Murazik, Osinski and Bechtelar",Korean,cheap,Battery Park City,12:39,20:41,3.6,false
+230,Jacobs-Sporer,Fast Food,expensive,Battery Park City,11:36,19:19,1.6,true
+231,"Casper, Tillman and Murazik",Mexican,cheap,Lower East Side,12:36,22:47,3.9,true
+232,"Stoltenberg, Simonis and Wolf",Italian,cheap,Greenwich Village,10:12,20:45,4.4,false
+233,Bernhard-Pfannerstill,American,expensive,Little Italy,12:00,23:32,3.2,false
+234,Howell-Crooks,Fast Food,cheap,Lower East Side,12:48,18:39,1.1,true
+235,Armstrong-Parisian,Japanese,medium,West Village,12:53,20:03,4.1,true
+236,"Bernier, Heathcote and Ernser",Mexican,cheap,Financial District,9:23,21:01,3.7,true
+237,"Hoppe, Hudson and Christiansen",Korean,medium,Chelsea,8:23,22:44,3.0,true
+238,"Kub, Sporer and Aufderhar",American,cheap,Chinatown,9:04,20:11,1.2,true
+239,Pouros LLC,Fast Food,cheap,Gramercy Park,9:36,18:07,2.3,true
+240,Wolf-Stark,American,medium,West Village,11:51,23:55,2.2,false
+241,"Harber, Fay and Bernier",American,medium,Midtown,9:23,23:36,4.3,true
+242,Klein-Williamson,Italian,medium,Lower East Side,9:16,23:40,3.3,false
+243,Roberts-Swift,Indian,expensive,Murray Hill,10:04,18:21,3.9,true
+244,Watsica-Leannon,Japanese,expensive,Little Italy,10:58,21:55,1.3,false
+245,Casper-Luettgen,Mexican,medium,Clinton,8:05,21:06,2.6,true
+246,"Mohr, Parisian and Ledner",Italian,medium,NoHo,11:35,20:16,4.8,true
+247,Hagenes and Sons,American,medium,Greenwich Village,9:37,18:37,4.7,false
+248,Zemlak-Homenick,Indian,medium,Gramercy Park,9:07,21:02,2.4,false
+249,Wisoky-Schroeder,Korean,medium,Kips Bay,8:32,21:13,4.3,false
+250,"Trantow, Bergnaum and Larson",Italian,expensive,Murray Hill,12:56,23:36,3.9,false
+251,"Hills, Klein and Fahey",Italian,cheap,West Village,8:27,23:08,2.7,true
+252,Crona LLC,Fast Food,medium,Chelsea,8:22,21:16,3.1,false
+253,"Rosenbaum, Krajcik and Klocko",Fast Food,cheap,Rose Hill,8:57,23:34,4.6,true
+254,Pacocha-Grant,French,medium,Greenwich Village,9:19,22:47,3.7,false
+255,Streich-Crona,Chinese,medium,Lower East Side,11:45,21:15,1.4,true
+256,"Armstrong, Kreiger and Leffler",Thai,expensive,Hell's Kitchen,12:30,21:13,1.6,true
+257,"Dickinson, O'Connell and Kohler",French,medium,Chelsea,10:54,21:04,1.2,true
+258,"Beer, Renner and Rempel",Japanese,medium,Midtown,11:11,21:15,4.3,false
+259,"Raynor, Jones and Kemmer",Italian,expensive,Chinatown,9:26,18:55,4.7,true
+260,Veum LLC,Indian,cheap,Gramercy Park,11:23,22:31,3.9,true
+261,Schaefer-Adams,Japanese,medium,Chinatown,9:55,21:00,2.7,true
+262,Cartwright-Nolan,Chinese,cheap,SoHo,8:27,21:15,1.7,false
+263,Aufderhar LLC,French,expensive,Financial District,11:16,21:01,2.1,false
+264,"Stiedemann, Johnson and Towne",American,medium,Lower East Side,8:12,22:08,2.3,true
+265,"Davis, Waters and Willms",Japanese,expensive,West Village,9:03,22:51,1.9,true
+266,Hartmann Group,Fast Food,expensive,SoHo,12:31,21:59,3.8,true
+267,Friesen Group,Mexican,expensive,Kips Bay,10:46,20:55,4.4,true
+268,Jakubowski Group,Fast Food,expensive,Financial District,11:26,20:16,4.7,false
+269,"Morissette, Lueilwitz and Becker",Italian,medium,Gramercy Park,10:21,18:40,4.7,false
+270,Schulist and Sons,Fast Food,cheap,Tribeca,12:04,22:02,3.7,false
+271,Ebert Inc,Korean,expensive,Midtown,12:03,19:00,3.5,false
+272,"McDermott, Torphy and Hegmann",American,medium,Chinatown,9:50,21:11,1.2,false
+273,Hauck-Boyle,Japanese,expensive,West Village,12:49,18:36,3.9,true
+274,"Hartmann, Emard and Jacobs",Chinese,expensive,Chinatown,8:12,18:12,1.6,false
+275,Blanda-Klocko,Japanese,cheap,Gramercy Park,10:15,18:20,4.0,true
+276,"Bechtelar, Lueilwitz and Thiel",Mexican,expensive,Chelsea,11:40,22:15,3.2,false
+277,Harris Inc,Thai,expensive,Lower East Side,10:52,23:40,2.0,false
+278,"Collier, Kling and Fahey",French,expensive,Lower East Side,9:09,19:40,2.7,false
+279,Ebert and Sons,American,medium,Battery Park City,12:33,22:50,4.4,true
+280,Cartwright-Hagenes,Chinese,expensive,Lower East Side,8:03,20:47,3.7,false
+281,Buckridge Group,Chinese,cheap,NoHo,11:13,19:23,2.2,true
+282,"Hagenes, Nikolaus and Mann",Mexican,medium,SoHo,8:17,18:09,2.3,true
+283,"Daniel, Witting and Doyle",Japanese,expensive,Tribeca,11:43,18:11,3.0,true
+284,Keeling-Koepp,French,medium,Murray Hill,10:27,23:19,2.8,false
+285,Langosh-Prohaska,French,medium,NoHo,10:12,18:20,4.5,false
+286,Blanda-Baumbach,Italian,expensive,Hudson Yards,12:15,22:33,1.3,false
+287,Kshlerin-Stehr,Mexican,expensive,SoHo,11:25,22:28,3.8,false
+288,"Schimmel, Bergnaum and Hansen",American,expensive,Kips Bay,11:18,22:50,4.7,true
+289,Nader-Daugherty,American,medium,Midtown,12:32,21:56,4.1,false
+290,Medhurst-Hintz,Indian,cheap,Hell's Kitchen,10:47,23:10,1.4,true
+291,Yost-Denesik,Korean,medium,West Village,12:10,23:56,4.0,false
+292,Prohaska Inc,French,cheap,West Village,8:53,21:25,4.4,false
+293,"Price, Stroman and West",Thai,medium,Little Italy,10:16,20:36,3.1,false
+294,Cole LLC,Indian,expensive,Tribeca,10:04,23:08,4.2,false
+295,"Schoen, Fay and Lakin",Korean,cheap,Rose Hill,8:50,19:37,4.1,true
+296,"Kohler, Sauer and Dickens",Mexican,cheap,Hudson Yards,11:51,20:52,2.6,false
+297,"Kautzer, Windler and Rolfson",Japanese,expensive,SoHo,11:06,18:33,4.2,false
+298,"Rodriguez, Schiller and Maggio",American,cheap,Gramercy Park,9:55,20:29,2.5,false
+299,"Miller, Harber and Rosenbaum",Italian,medium,Financial District,11:37,19:20,4.6,false
+300,Haley and Sons,Italian,cheap,Tribeca,11:08,23:22,2.9,true
+301,"Wilkinson, Rowe and Bernier",Chinese,cheap,Financial District,10:09,20:41,4.1,true
+302,Kreiger-Miller,Fast Food,cheap,Hell's Kitchen,8:58,21:46,2.4,true
+303,Pacocha-Beer,Chinese,medium,Kips Bay,9:17,20:34,3.6,false
+304,Reichel-Emard,French,medium,Clinton,10:29,23:28,3.9,false
+305,Corwin-Douglas,Fast Food,medium,West Village,9:22,21:52,2.5,false
+306,Farrell Inc,Korean,expensive,Rose Hill,12:32,22:03,4.2,true
+307,"Mueller, Hansen and Schuster",Japanese,expensive,Kips Bay,8:48,18:16,4.4,true
+308,Champlin LLC,Korean,cheap,Kips Bay,9:18,20:16,2.9,false
+309,Shields-Champlin,American,cheap,Battery Park City,12:17,18:51,2.8,true
+310,O'Hara-Mertz,French,cheap,NoHo,11:49,20:48,4.1,false
+311,"Feest, Rodriguez and Thompson",Indian,cheap,Clinton,8:34,22:47,1.7,false
+312,Keebler-Schumm,Chinese,expensive,Rose Hill,12:28,19:28,4.8,true
+313,Leffler-O'Connell,Japanese,cheap,Hudson Yards,10:09,19:07,4.1,true
+314,Cartwright Group,French,expensive,Clinton,12:20,22:57,2.1,false
+315,"Rutherford, Mayert and Cruickshank",Mexican,cheap,Tribeca,12:45,22:51,1.1,false
+316,"Dicki, Abernathy and Anderson",Chinese,medium,Financial District,9:19,20:37,4.1,false
+317,Torp and Sons,Indian,expensive,Clinton,12:27,18:57,4.4,false
+318,"Hills, Rolfson and Lemke",Korean,cheap,Clinton,12:44,18:41,4.0,true
+319,Johnson Inc,French,cheap,Tribeca,9:35,20:43,3.2,true
+320,Ruecker-Stanton,Korean,cheap,Financial District,9:05,18:53,1.9,true
+321,"Nitzsche, Wilderman and Rogahn",Thai,expensive,Chinatown,8:35,19:12,1.3,true
+322,"Cassin, Keebler and Hoppe",Indian,expensive,Chelsea,11:57,20:59,2.9,false
+323,"Ziemann, Schroeder and Pacocha",French,expensive,Kips Bay,10:20,23:43,4.1,true
+324,Shields Inc,American,expensive,Midtown,11:17,18:44,2.5,true
+325,Runolfsdottir Inc,Thai,expensive,Clinton,9:34,21:39,2.5,true
+326,Boehm and Sons,Japanese,cheap,Rose Hill,10:16,23:51,1.7,false
+327,Ward and Sons,French,expensive,Murray Hill,8:10,21:54,2.2,false
+328,"Shields, Nicolas and Dibbert",Japanese,cheap,Greenwich Village,11:53,19:43,1.2,false
+329,Mueller Inc,American,medium,Kips Bay,10:36,20:25,5.0,true
+330,Bauch Inc,Korean,expensive,Midtown,11:16,19:12,2.5,true
+331,Abbott-Goodwin,Fast Food,cheap,Battery Park City,12:46,22:43,3.0,false
+332,Lockman Inc,Fast Food,expensive,Kips Bay,8:20,22:08,2.8,true
+333,Schamberger-Murphy,Indian,expensive,Kips Bay,10:40,23:35,3.8,false
+334,"Adams, Kessler and Larson",Italian,cheap,Chinatown,9:43,22:28,2.6,true
+335,Walker-Ankunding,Mexican,cheap,NoHo,11:46,20:02,2.4,true
+336,Schmeler-Waelchi,Italian,cheap,Midtown,10:49,19:30,4.3,false
+337,Schneider and Sons,Mexican,medium,Lower East Side,12:52,21:57,2.9,true
+338,"Hermiston, Nolan and Bins",Indian,expensive,Little Italy,12:18,20:43,1.3,false
+339,Corkery-Toy,Fast Food,medium,Greenwich Village,11:13,18:24,1.4,false
+340,"Jerde, Runolfsson and Hahn",Japanese,medium,Chelsea,12:09,18:26,4.3,false
+341,"Sporer, Thiel and Wehner",Indian,medium,Battery Park City,12:32,18:24,1.2,false
+342,Farrell-Dickinson,Italian,cheap,Rose Hill,8:05,21:15,3.7,false
+343,O'Kon Group,French,cheap,SoHo,9:00,23:03,2.9,true
+344,Hackett and Sons,Italian,medium,Little Italy,8:22,18:48,4.4,false
+345,"Kohler, Quigley and Jones",Fast Food,expensive,Rose Hill,12:31,21:45,4.3,false
+346,Mills-Deckow,Korean,cheap,Financial District,11:59,18:58,1.1,true
+347,Dicki LLC,Japanese,cheap,West Village,9:13,18:26,1.9,true
+348,Kub LLC,Italian,cheap,Hudson Yards,12:08,20:03,2.9,false
+349,"Douglas, Mann and Gulgowski",French,medium,Murray Hill,11:07,19:23,3.5,false
+350,Considine-Effertz,American,medium,Murray Hill,9:36,19:36,1.5,false
+351,Stark-Bogan,Fast Food,medium,Chelsea,11:21,21:41,1.7,true
+352,"Stokes, Franecki and Cruickshank",Fast Food,medium,Gramercy Park,9:22,23:58,1.5,false
+353,"Weimann, Bode and Nikolaus",American,medium,Lower East Side,12:12,20:25,1.6,true
+354,Mohr-Wyman,Japanese,cheap,Kips Bay,9:38,22:24,3.6,true
+355,Zboncak Group,Korean,cheap,West Village,8:31,19:53,4.8,true
+356,Corwin and Sons,Italian,cheap,Midtown,10:24,22:25,2.2,true
+357,"Reinger, Koch and Jaskolski",Japanese,cheap,Gramercy Park,9:22,22:14,2.5,false
+358,Spencer Group,Mexican,expensive,West Village,10:00,20:05,1.9,false
+359,"Gerlach, Kovacek and Stracke",American,expensive,NoHo,11:55,19:11,5.0,false
+360,"Farrell, Kilback and Sporer",Thai,cheap,Murray Hill,10:20,21:54,1.1,false
+361,"Kozey, Schamberger and Collins",American,medium,NoHo,10:24,18:15,3.3,true
+362,Bosco-Kemmer,Fast Food,cheap,Little Italy,9:03,18:59,2.2,true
+363,Feil LLC,Chinese,expensive,Greenwich Village,12:50,18:50,4.2,false
+364,Nicolas-Kassulke,American,medium,Greenwich Village,10:09,23:34,3.2,false
+365,Gorczany-Armstrong,French,medium,Rose Hill,10:11,20:16,3.9,false
+366,Stiedemann-Ward,Chinese,expensive,Clinton,11:45,22:19,2.5,false
+367,Swift LLC,American,medium,Hudson Yards,9:16,23:05,3.8,false
+368,"Shanahan, Veum and Rolfson",Fast Food,medium,West Village,9:05,23:19,2.6,false
+369,Connelly-Hilpert,Japanese,medium,Chinatown,10:20,20:55,1.0,true
+370,Gleason Inc,Thai,expensive,Little Italy,10:06,23:32,2.3,true
+371,Gerhold-DuBuque,Indian,cheap,Gramercy Park,8:39,23:51,3.7,false
+372,Hane LLC,Fast Food,medium,Chinatown,9:19,22:23,1.8,true
+373,Funk-Fritsch,Mexican,medium,Clinton,10:14,21:11,2.2,true
+374,"Fadel, Bogisich and Goodwin",Thai,cheap,Murray Hill,11:55,19:14,2.6,true
+375,Wilderman and Sons,Japanese,cheap,Chinatown,11:08,23:49,1.9,true
+376,"D'Amore, Luettgen and Emard",French,medium,SoHo,8:43,23:12,4.2,false
+377,Schinner Inc,Indian,cheap,Murray Hill,8:14,22:15,3.1,true
+378,Nolan-Ernser,Thai,cheap,Little Italy,12:48,21:04,4.2,true
+379,Rempel-Langosh,Italian,medium,Gramercy Park,8:12,22:57,1.5,true
+380,Abshire-Hilll,Mexican,expensive,Battery Park City,9:09,20:47,4.4,true
+381,"Torp, Ankunding and Hand",Mexican,cheap,Hell's Kitchen,8:34,19:25,1.4,false
+382,Feil-Bins,Korean,expensive,Greenwich Village,12:12,18:33,2.2,true
+383,Hane Inc,American,expensive,Rose Hill,10:33,20:06,1.8,false
+384,Boyer Group,Indian,expensive,Midtown,10:39,22:00,4.6,false
+385,Weber-Gaylord,Korean,expensive,SoHo,10:42,18:52,4.6,false
+386,Lesch and Sons,Indian,cheap,Chelsea,12:55,21:26,2.4,true
+387,"Orn, Ebert and Stanton",American,cheap,Hudson Yards,11:25,23:18,4.4,false
+388,"Pfeffer, Runolfsson and Kozey",Fast Food,medium,Murray Hill,10:03,18:37,2.9,true
+389,"Heidenreich, Thompson and Oberbrunner",Indian,cheap,Rose Hill,10:17,18:49,4.2,false
+390,Vandervort Inc,Italian,cheap,Clinton,11:18,23:33,1.2,false
+391,Douglas-Schoen,Thai,cheap,Chelsea,9:49,20:06,4.6,true
+392,Borer-Flatley,French,medium,Lower East Side,11:13,21:36,2.8,true
+393,"Olson, Ankunding and Little",Korean,expensive,Kips Bay,8:55,18:59,4.5,true
+394,Schneider Inc,Chinese,expensive,West Village,8:12,20:17,4.3,true
+395,Bradtke-Roberts,French,medium,Clinton,9:32,18:36,4.4,true
+396,Schultz-Reynolds,Italian,expensive,Murray Hill,11:49,19:31,1.1,false
+397,Grimes Inc,Thai,medium,Battery Park City,12:24,23:45,3.9,true
+398,Bahringer-Smitham,Italian,cheap,Gramercy Park,8:11,23:55,2.1,true
+399,"Legros, Wuckert and Kozey",French,medium,Murray Hill,9:29,21:17,2.0,false
+400,Blick Group,Japanese,medium,Murray Hill,9:03,23:11,4.5,false
+401,"Robel, Terry and Metz",Japanese,cheap,Lower East Side,12:30,21:27,3.5,true
+402,Kerluke Group,Indian,expensive,Battery Park City,11:03,21:26,4.8,false
+403,"Cruickshank, Bergstrom and Johnson",Japanese,cheap,Lower East Side,8:59,20:22,2.7,true
+404,Adams and Sons,Fast Food,medium,Financial District,9:43,23:34,3.8,true
+405,"Becker, Zemlak and Gibson",Chinese,medium,Greenwich Village,10:00,20:12,4.8,false
+406,Hoppe-Hegmann,Italian,cheap,Chinatown,10:49,20:14,2.1,true
+407,Emard Group,Mexican,expensive,SoHo,12:12,23:52,4.0,true
+408,Lemke LLC,Japanese,cheap,Battery Park City,9:40,18:24,2.6,true
+409,O'Reilly Inc,Thai,expensive,Rose Hill,8:29,19:13,4.9,false
+410,"Beahan, Treutel and Grant",Japanese,expensive,NoHo,8:31,21:36,4.8,true
+411,Gislason LLC,Italian,medium,Chinatown,11:26,23:52,1.9,false
+412,Prosacco and Sons,Fast Food,cheap,Gramercy Park,11:55,20:53,3.3,false
+413,"Torphy, Connelly and Schowalter",Indian,medium,Murray Hill,11:17,22:40,1.6,true
+414,Rippin and Sons,Mexican,expensive,Battery Park City,10:03,19:01,3.4,true
+415,Bartell-Huels,French,cheap,Hell's Kitchen,12:40,19:05,4.9,true
+416,"Wuckert, Wuckert and Donnelly",Korean,medium,NoHo,10:11,22:10,4.9,false
+417,Skiles-Gutmann,Thai,cheap,Chelsea,9:30,23:20,2.9,true
+418,"Swaniawski, Fadel and Harris",Korean,medium,SoHo,9:11,23:55,4.3,true
+419,Ryan-Jakubowski,Japanese,medium,Gramercy Park,11:39,19:19,1.1,false
+420,Purdy-Walker,Chinese,medium,Midtown,11:52,18:15,3.7,true
+421,"Feeney, Shields and Yost",French,expensive,Gramercy Park,10:13,22:28,1.4,true
+422,Kiehn-Huel,Thai,cheap,Rose Hill,9:46,23:44,4.1,false
+423,Smitham-Bins,Indian,medium,NoHo,10:53,23:55,1.9,true
+424,Brown-Hettinger,Chinese,medium,Lower East Side,10:16,18:46,3.0,true
+425,Rolfson-Jast,Italian,expensive,Financial District,9:25,19:16,2.6,true
+426,Rowe-Towne,Italian,expensive,Murray Hill,12:27,20:13,2.1,true
+427,Hagenes and Sons,Indian,medium,Chinatown,12:03,22:34,3.0,true
+428,Pouros and Sons,Mexican,expensive,Midtown,11:02,22:03,2.6,true
+429,"Mohr, Hand and Treutel",Korean,expensive,Clinton,9:44,20:31,3.4,false
+430,Tremblay-Grady,Italian,expensive,Chelsea,9:19,20:13,1.2,false
+431,"Kling, Lindgren and Adams",Thai,expensive,Tribeca,10:18,20:24,4.3,true
+432,"Kling, Hammes and DuBuque",Italian,cheap,West Village,8:49,22:46,3.3,true
+433,Spencer Inc,Italian,medium,Gramercy Park,10:30,20:14,3.2,true
+434,Mertz Inc,American,cheap,Chelsea,8:13,19:32,3.9,true
+435,"Hartmann, Bogisich and Spencer",Italian,expensive,Little Italy,11:59,22:42,3.4,false
+436,Quitzon-Tromp,Italian,medium,Little Italy,11:12,18:08,1.3,false
+437,VonRueden-Larson,American,cheap,Kips Bay,8:49,21:56,1.9,true
+438,"Denesik, Breitenberg and Fadel",Fast Food,medium,Gramercy Park,8:55,22:51,2.5,true
+439,"Carroll, McDermott and Mayer",Korean,expensive,Hudson Yards,10:11,21:44,3.9,false
+440,"Mraz, Beatty and White",Indian,cheap,Midtown,10:53,18:34,2.9,true
+441,Witting-Parker,Italian,expensive,Murray Hill,12:16,18:20,3.4,false
+442,Upton-Sipes,French,cheap,Murray Hill,8:41,23:23,3.5,false
+443,"Keeling, Berge and Hirthe",Mexican,expensive,NoHo,9:55,22:36,2.4,true
+444,Satterfield-Mohr,Indian,medium,Gramercy Park,8:09,22:42,1.8,true
+445,Green-Block,Korean,expensive,Kips Bay,10:40,21:41,4.2,true
+446,"Beatty, Christiansen and Brown",French,expensive,Tribeca,8:33,19:34,2.0,true
+447,Padberg-Ondricka,Chinese,cheap,Little Italy,8:50,23:22,2.3,false
+448,"Murazik, Pagac and Pouros",Chinese,cheap,Lower East Side,9:57,21:48,4.0,false
+449,Cummerata LLC,Thai,cheap,Battery Park City,12:07,21:29,4.2,false
+450,Block Group,Chinese,expensive,Little Italy,11:37,19:22,2.4,true
+451,Roberts LLC,French,medium,Tribeca,10:37,20:08,1.3,true
+452,Herman Group,American,cheap,West Village,11:40,19:40,3.2,false
+453,"Rolfson, D'Amore and Ebert",Chinese,medium,Tribeca,11:08,19:28,1.1,false
+454,"Beer, Smitham and Wiegand",Mexican,medium,Chinatown,9:14,20:26,3.8,false
+455,Stracke-Prohaska,Mexican,expensive,Financial District,9:25,22:19,3.5,true
+456,"Conroy, Mante and Herzog",Indian,medium,SoHo,9:17,20:47,2.6,true
+457,"Parker, Hudson and Morissette",Italian,expensive,Rose Hill,10:36,21:17,2.6,true
+458,"Keeling, Dickinson and Predovic",Italian,cheap,Lower East Side,10:46,23:49,4.9,false
+459,Kling Group,French,cheap,Little Italy,10:31,20:31,3.2,false
+460,Botsford Group,Japanese,cheap,Clinton,9:19,23:04,2.7,true
+461,Littel and Sons,Italian,expensive,Gramercy Park,10:46,23:57,4.7,false
+462,Goyette-Mitchell,Mexican,cheap,Hell's Kitchen,8:52,20:23,3.3,true
+463,"Rolfson, Dietrich and Greenfelder",French,cheap,Battery Park City,10:28,18:01,1.6,false
+464,"Koelpin, Leuschke and O'Connell",French,medium,Gramercy Park,11:08,19:56,1.5,true
+465,Abernathy and Sons,Korean,medium,Clinton,12:58,20:29,4.9,true
+466,Huels-Batz,Mexican,medium,Battery Park City,11:29,19:49,2.6,false
+467,Wolff-Lang,Korean,expensive,Gramercy Park,12:11,23:35,3.2,true
+468,"Hodkiewicz, Haley and Ward",Fast Food,cheap,Gramercy Park,9:41,23:45,3.6,false
+469,Torphy Group,Indian,cheap,Midtown,8:00,22:34,3.5,true
+470,"Kovacek, Lang and Fisher",French,cheap,Clinton,8:35,22:29,2.8,true
+471,Greenfelder-Glover,Japanese,medium,Chinatown,11:35,22:48,1.8,true
+472,Konopelski LLC,Mexican,medium,Hudson Yards,12:32,23:35,4.6,true
+473,"Casper, Ernser and Hammes",American,cheap,Lower East Side,11:59,18:47,3.9,false
+474,"Sipes, Franecki and Goldner",Chinese,expensive,Gramercy Park,11:49,21:00,5.0,true
+475,White-McKenzie,Fast Food,expensive,Hell's Kitchen,8:13,22:29,3.5,false
+476,"Halvorson, Bechtelar and Hammes",Italian,expensive,Rose Hill,8:23,18:10,1.7,true
+477,"Davis, Toy and Wehner",Chinese,cheap,SoHo,8:33,22:52,1.9,false
+478,Jacobs-Kozey,Chinese,medium,West Village,9:33,20:45,2.7,true
+479,Wehner Inc,Indian,cheap,Lower East Side,9:48,21:47,1.0,false
+480,Steuber Inc,Italian,medium,Murray Hill,8:57,23:58,3.4,true
+481,"Zemlak, Howell and Hartmann",Indian,medium,Chinatown,12:35,21:06,4.4,false
+482,Kuhic and Sons,Italian,medium,Murray Hill,8:53,19:39,4.0,true
+483,"Hartmann, Russel and Brakus",Indian,expensive,NoHo,8:35,18:39,1.8,true
+484,"Leannon, Lesch and Heaney",French,cheap,Hudson Yards,8:02,22:54,1.6,false
+485,Schultz-Kshlerin,Korean,cheap,Tribeca,12:12,20:05,3.0,true
+486,Goldner-Lynch,American,cheap,Tribeca,9:28,22:10,3.6,true
+487,"Murazik, Miller and Breitenberg",Korean,cheap,Rose Hill,8:37,22:23,4.5,false
+488,Brekke-Hessel,Mexican,cheap,West Village,12:43,20:50,2.0,true
+489,"Kunde, Waelchi and Bernier",Chinese,expensive,Rose Hill,9:02,23:23,3.7,true
+490,"Huel, Hickle and Hyatt",Japanese,medium,Murray Hill,11:56,21:25,1.0,false
+491,Zemlak-Kuhic,Thai,cheap,Chinatown,8:52,23:24,3.8,false
+492,"Kuhlman, Prohaska and Macejkovic",American,cheap,Midtown,12:07,18:59,3.4,true
+493,Hoppe LLC,Chinese,expensive,Chinatown,9:00,19:18,1.4,false
+494,"Brekke, Bogisich and McClure",Korean,medium,Murray Hill,9:49,23:58,4.4,false
+495,Turcotte and Sons,Thai,cheap,Hudson Yards,9:07,19:14,3.9,false
+496,"Jaskolski, Cartwright and Johnson",Indian,expensive,Chinatown,8:48,23:39,3.7,false
+497,Considine-Durgan,American,cheap,Hudson Yards,8:07,23:00,4.0,true
+498,"Erdman, Cormier and Breitenberg",Thai,cheap,Murray Hill,9:35,22:55,2.1,false
+499,"Batz, Wilkinson and Hauck",Japanese,medium,Chelsea,11:33,23:50,1.8,false
+500,Stokes-Altenwerth,Chinese,cheap,Tribeca,12:05,19:33,1.8,true
+501,"Fay, Parker and Hermann",Thai,expensive,Battery Park City,12:56,21:11,2.1,false
+502,Harris Group,Thai,medium,Tribeca,8:35,20:47,3.1,true
+503,Beahan-Langworth,Chinese,cheap,Murray Hill,9:45,19:18,1.6,false
+504,Greenfelder-Pollich,Mexican,medium,Hudson Yards,11:53,21:41,1.4,false
+505,Schiller-Yost,Fast Food,medium,Hell's Kitchen,9:48,19:37,2.3,true
+506,Reinger-Koelpin,American,expensive,Financial District,12:43,21:14,1.5,false
+507,Collier-Hayes,French,medium,NoHo,11:28,21:07,4.6,false
+508,"Crist, Green and Gulgowski",Korean,expensive,Lower East Side,9:20,21:11,4.2,false
+509,Mills-Hayes,Fast Food,expensive,Rose Hill,9:46,20:56,4.7,true
+510,"Collins, Turner and Schaefer",Indian,expensive,Clinton,12:07,23:23,3.1,true
+511,Hilpert-Lemke,Korean,cheap,Hell's Kitchen,12:55,18:26,2.5,false
+512,Shields-Treutel,Fast Food,medium,Battery Park City,10:31,19:54,3.8,true
+513,"Nolan, Jast and Greenfelder",Korean,cheap,SoHo,10:42,23:25,1.8,true
+514,"Luettgen, Stoltenberg and Huels",Indian,cheap,Tribeca,8:57,23:01,4.8,true
+515,"Jast, Turcotte and Becker",Japanese,cheap,Tribeca,12:36,23:32,1.5,true
+516,"Kris, Murray and Ebert",Indian,expensive,Midtown,12:30,18:10,3.5,false
+517,"Nicolas, Runolfsdottir and Lesch",Chinese,medium,Little Italy,8:01,20:05,1.2,true
+518,Kassulke Inc,American,medium,Chinatown,8:52,20:18,3.9,true
+519,"Bradtke, MacGyver and Smith",Thai,medium,NoHo,8:29,22:45,2.7,true
+520,"Williamson, Veum and Hamill",Fast Food,expensive,Chinatown,11:37,23:58,1.7,false
+521,Cronin Inc,Italian,expensive,Hell's Kitchen,11:16,21:50,4.4,false
+522,"Larkin, Roberts and Medhurst",Chinese,medium,Gramercy Park,8:58,23:09,4.7,false
+523,Schmitt Inc,Indian,cheap,West Village,12:59,22:31,1.7,false
+524,"Lindgren, Schuppe and Lakin",Korean,expensive,Murray Hill,8:16,18:14,3.9,true
+525,Tremblay LLC,Korean,medium,Clinton,10:57,20:48,2.8,false
+526,"Reilly, Greenfelder and Dietrich",American,medium,Kips Bay,9:38,18:54,4.4,true
+527,Feil-Botsford,Mexican,medium,Murray Hill,10:40,19:52,2.6,false
+528,Sipes-Baumbach,Indian,cheap,Battery Park City,11:02,20:40,4.5,false
+529,Hartmann-Bartell,Chinese,cheap,Rose Hill,10:11,21:25,1.6,false
+530,"Wyman, Bergstrom and Mann",Fast Food,medium,Lower East Side,8:11,22:01,1.2,false
+531,"Lockman, Gleichner and Wisozk",French,expensive,Rose Hill,9:31,23:43,4.8,false
+532,Spinka-Kemmer,French,expensive,Gramercy Park,8:47,23:15,3.3,false
+533,Brakus-Kuhn,Fast Food,medium,Murray Hill,10:17,19:57,4.8,true
+534,"Reichert, Buckridge and Carroll",Japanese,medium,Hudson Yards,12:38,21:21,3.5,true
+535,Reynolds-Jones,Indian,medium,Midtown,8:23,23:32,1.8,true
+536,"Kassulke, Graham and Nader",Fast Food,medium,Hudson Yards,8:02,21:44,2.5,true
+537,Kuhic-Lind,French,cheap,Hell's Kitchen,12:47,22:24,3.2,false
+538,Hickle-Halvorson,Italian,expensive,Tribeca,9:55,20:41,4.2,true
+539,Leannon-Mitchell,Chinese,expensive,Rose Hill,9:59,21:27,2.6,true
+540,Glover and Sons,Chinese,expensive,NoHo,8:27,19:42,4.1,true
+541,"West, Pouros and Goodwin",Indian,medium,Murray Hill,11:27,22:39,2.4,false
+542,Rath and Sons,Indian,cheap,Lower East Side,9:33,20:06,2.9,true
+543,Sporer and Sons,Fast Food,expensive,Midtown,12:04,18:56,4.7,false
+544,"Champlin, Roob and Kessler",Chinese,cheap,Lower East Side,11:32,21:01,1.7,false
+545,Kulas and Sons,Chinese,expensive,Battery Park City,12:16,23:58,2.3,false
+546,Hahn-Huel,Japanese,medium,Kips Bay,9:35,18:17,2.9,false
+547,"Funk, Friesen and Romaguera",Chinese,cheap,Chelsea,9:17,20:27,2.3,true
+548,Jerde Group,Fast Food,cheap,Tribeca,8:26,22:18,1.4,false
+549,"Stroman, Armstrong and Von",Thai,cheap,Tribeca,8:49,19:57,4.9,true
+550,Zemlak LLC,Mexican,cheap,Kips Bay,10:53,23:36,3.9,false
+551,"Kreiger, Wisozk and Rolfson",Korean,cheap,Rose Hill,12:08,20:04,4.5,true
+552,"Weimann, O'Kon and Runte",Korean,cheap,Lower East Side,12:39,21:47,5.0,true
+553,Nolan-Runolfsson,American,medium,Chelsea,10:50,18:26,1.6,true
+554,"Hegmann, Von and Schaefer",Japanese,medium,SoHo,9:29,18:55,4.2,false
+555,Harber-Senger,American,medium,Murray Hill,12:16,18:25,5.0,true
+556,Botsford-O'Connell,Mexican,cheap,SoHo,12:47,20:46,4.7,false
+557,Rolfson Inc,French,cheap,Battery Park City,9:10,22:55,2.6,false
+558,Stoltenberg-Reichert,Italian,expensive,Battery Park City,9:35,23:03,2.9,false
+559,Bashirian and Sons,Fast Food,cheap,Midtown,11:43,23:36,1.1,false
+560,Tillman Inc,Japanese,cheap,Chelsea,12:30,19:51,3.7,false
+561,Senger-Satterfield,Italian,cheap,Hudson Yards,10:45,23:01,2.6,false
+562,Wuckert-Grimes,Japanese,cheap,Hudson Yards,11:49,20:10,1.7,true
+563,Treutel and Sons,Italian,cheap,Chelsea,8:51,23:42,1.5,false
+564,VonRueden Group,French,medium,Financial District,9:25,19:53,1.1,false
+565,Littel-Strosin,Chinese,cheap,Clinton,8:04,23:13,4.8,false
+566,Beahan and Sons,Italian,cheap,Gramercy Park,9:23,22:47,2.0,false
+567,Bailey-Crist,French,cheap,Battery Park City,10:18,19:58,3.3,false
+568,Hammes-Jaskolski,Indian,expensive,West Village,11:31,21:28,2.0,false
+569,Kub-Von,Chinese,expensive,Battery Park City,10:05,21:48,3.1,true
+570,Marks Group,Chinese,medium,Murray Hill,11:53,20:25,3.3,true
+571,Dietrich-McLaughlin,Indian,medium,Hell's Kitchen,8:53,22:50,2.9,false
+572,Rosenbaum-Schulist,Mexican,medium,NoHo,9:07,21:52,2.9,true
+573,Renner-Schmeler,Japanese,medium,Hudson Yards,8:33,19:02,3.8,true
+574,"Kuhn, Jenkins and Kuhic",Korean,cheap,Gramercy Park,8:33,21:38,2.5,false
+575,Yundt and Sons,Indian,expensive,Little Italy,11:37,19:41,2.2,true
+576,Walter-Terry,Indian,medium,Rose Hill,10:33,21:10,2.1,true
+577,Roob-Bogan,Italian,cheap,Financial District,9:16,20:38,2.4,true
+578,"Kulas, Hirthe and Torp",Italian,cheap,Midtown,11:34,23:34,2.4,false
+579,Gleason-Stroman,Chinese,medium,Kips Bay,10:44,21:31,1.5,false
+580,Murazik and Sons,Thai,medium,Rose Hill,11:38,21:57,1.0,false
+581,Dickens LLC,Chinese,expensive,Greenwich Village,10:03,22:18,2.3,false
+582,Cartwright Group,Chinese,expensive,NoHo,11:57,19:59,4.1,true
+583,"Durgan, Ziemann and Fay",Thai,cheap,Financial District,12:24,18:15,4.6,false
+584,Durgan-Dietrich,French,cheap,Chinatown,9:20,23:35,1.6,false
+585,"Lynch, Medhurst and Brekke",Thai,expensive,Tribeca,9:19,18:45,2.4,true
+586,Sawayn-Stroman,Italian,cheap,Kips Bay,8:31,21:24,2.5,true
+587,Fahey-Grimes,Chinese,medium,Hell's Kitchen,11:59,20:43,3.4,false
+588,"Metz, Sanford and Smith",French,medium,Kips Bay,9:38,18:06,4.2,true
+589,Mann Group,Mexican,medium,Gramercy Park,12:51,21:42,2.5,false
+590,DuBuque Inc,Indian,cheap,SoHo,12:48,21:53,2.1,true
+591,Rowe-Spinka,Fast Food,cheap,Midtown,10:55,22:31,2.5,false
+592,"Gleichner, Schowalter and Robel",American,cheap,Clinton,12:36,19:57,2.3,false
+593,Gulgowski LLC,Japanese,expensive,Gramercy Park,8:20,23:25,1.1,false
+594,Mitchell Group,French,medium,Financial District,11:38,20:01,3.6,true
+595,Haag-Donnelly,French,cheap,Battery Park City,10:39,21:27,3.6,true
+596,"O'Reilly, Doyle and Durgan",Fast Food,expensive,NoHo,10:22,22:43,3.2,true
+597,Kessler-Graham,American,medium,Gramercy Park,10:52,18:42,2.1,true
+598,Green-Gaylord,Japanese,cheap,Hell's Kitchen,11:11,18:58,1.4,false
+599,Dibbert and Sons,Italian,expensive,Financial District,11:22,23:57,3.9,true
+600,Deckow Group,American,expensive,Chinatown,11:01,20:45,4.6,true
+601,"Grant, Purdy and Nader",French,expensive,Chinatown,8:28,21:58,4.7,true
+602,Terry-Jacobi,Indian,medium,Lower East Side,8:49,20:57,4.0,false
+603,Bayer and Sons,French,cheap,Little Italy,8:11,18:47,2.9,false
+604,"Kohler, Quitzon and Ledner",Italian,expensive,Clinton,12:55,21:50,2.8,true
+605,Armstrong-Grant,French,medium,West Village,12:42,23:42,4.9,true
+606,"Considine, Bayer and Orn",Fast Food,cheap,Lower East Side,11:10,20:57,2.6,false
+607,Quigley-Macejkovic,Indian,medium,Lower East Side,11:11,18:41,4.0,false
+608,Beer-Reinger,Fast Food,cheap,Hudson Yards,8:53,18:13,4.9,true
+609,"Heller, Olson and Nitzsche",Chinese,expensive,Financial District,12:43,22:54,3.8,true
+610,Bartoletti-Quitzon,Italian,expensive,Murray Hill,10:54,20:00,1.6,true
+611,"DuBuque, Jerde and Feil",Indian,medium,Battery Park City,12:42,23:16,1.0,false
+612,Weimann-Strosin,Fast Food,expensive,Hell's Kitchen,10:45,23:20,4.9,false
+613,Sanford Group,Fast Food,cheap,Chinatown,9:46,23:28,1.5,false
+614,Cole LLC,Italian,cheap,SoHo,10:28,21:05,2.9,true
+615,"Erdman, Crona and Kerluke",American,cheap,SoHo,10:42,20:03,2.5,true
+616,Breitenberg-Daniel,Mexican,expensive,Chelsea,9:03,22:57,2.4,true
+617,"Dach, Muller and Connelly",Korean,cheap,Gramercy Park,8:24,20:30,1.3,false
+618,Harvey-Gorczany,Fast Food,medium,Midtown,9:13,20:29,1.2,false
+619,Botsford-Becker,Japanese,medium,Midtown,11:55,20:30,2.3,true
+620,Cremin LLC,Fast Food,cheap,Midtown,12:55,22:02,1.1,false
+621,"Hartmann, McGlynn and Roob",Korean,medium,Murray Hill,11:07,19:22,4.3,true
+622,"Glover, Rohan and Durgan",Japanese,medium,Murray Hill,11:16,19:06,1.8,false
+623,Sanford-Glover,Korean,cheap,Greenwich Village,12:11,20:20,4.6,false
+624,Prosacco Group,American,cheap,West Village,12:25,19:00,3.9,false
+625,Nolan-Tillman,Thai,cheap,Little Italy,8:33,18:03,4.5,true
+626,"Feeney, Gleason and Mraz",Japanese,expensive,Chinatown,11:18,19:44,5.0,false
+627,Kohler and Sons,American,medium,Midtown,8:37,19:20,3.1,true
+628,Kiehn LLC,Indian,medium,Gramercy Park,10:05,19:13,4.4,true
+629,Kilback LLC,Mexican,cheap,Kips Bay,12:46,20:12,4.8,true
+630,Cormier Inc,Korean,expensive,Hell's Kitchen,8:50,18:43,3.8,false
+631,McCullough-Keebler,French,medium,Little Italy,8:33,18:07,4.9,true
+632,"Mraz, Pagac and Koelpin",Indian,cheap,Tribeca,8:37,21:33,2.6,false
+633,Moen-Brakus,Mexican,expensive,NoHo,9:26,20:02,1.4,true
+634,"Dach, Sipes and Jacobs",Korean,cheap,Murray Hill,9:02,19:16,5.0,true
+635,"Kuphal, Bauch and Pfannerstill",Japanese,medium,Chelsea,12:57,21:03,2.0,true
+636,Hayes LLC,Japanese,expensive,Hudson Yards,12:17,21:55,1.0,true
+637,Williamson and Sons,Indian,cheap,Greenwich Village,10:46,22:21,1.9,true
+638,"Rolfson, Rowe and Johns",Japanese,medium,Rose Hill,11:48,23:12,1.2,true
+639,Goodwin-Bartell,Indian,cheap,Lower East Side,10:37,20:41,2.2,true
+640,"Collier, Jones and Hodkiewicz",French,expensive,Kips Bay,10:24,23:42,5.0,false
+641,Heaney Group,Mexican,medium,Financial District,12:20,20:32,2.6,true
+642,"Runte, Rodriguez and Dibbert",Indian,medium,Little Italy,11:50,18:53,4.6,false
+643,Braun-Davis,Indian,expensive,Hell's Kitchen,10:03,23:28,3.0,false
+644,"Schamberger, Reilly and Simonis",Mexican,expensive,Kips Bay,8:34,23:05,3.5,true
+645,"Abshire, Graham and Bartoletti",Japanese,expensive,Little Italy,9:48,18:10,1.9,false
+646,"Wolf, Gleichner and Gleichner",Mexican,medium,Kips Bay,11:54,22:09,2.3,true
+647,"O'Reilly, Schimmel and Hilpert",Fast Food,expensive,Greenwich Village,9:44,18:28,1.2,false
+648,"Jakubowski, Luettgen and Hane",Italian,expensive,Clinton,10:34,23:01,2.4,true
+649,Kertzmann-Gerhold,Fast Food,expensive,Murray Hill,8:02,19:56,3.1,true
+650,"Botsford, Jenkins and Parisian",French,cheap,Hell's Kitchen,12:13,19:04,2.5,false
+651,Beahan Group,Chinese,cheap,SoHo,8:40,20:14,2.6,false
+652,"Thiel, Macejkovic and Hansen",Korean,expensive,NoHo,12:30,19:06,3.5,true
+653,Keeling-Homenick,American,medium,Midtown,11:22,18:29,1.4,false
+654,Schmitt Group,Chinese,cheap,Battery Park City,9:10,23:31,1.6,false
+655,Tremblay Group,French,medium,West Village,9:58,20:05,3.7,true
+656,Heidenreich-Heaney,Mexican,medium,Chelsea,12:50,21:13,1.2,false
+657,"Koch, Nikolaus and Cummings",Fast Food,medium,Financial District,12:03,20:20,2.8,true
+658,"Hammes, Blick and Murray",American,expensive,Kips Bay,11:51,23:43,3.9,true
+659,"Beahan, Kling and Nienow",Fast Food,medium,Kips Bay,10:26,20:26,4.7,true
+660,Erdman Group,Mexican,medium,Murray Hill,12:02,18:16,4.8,false
+661,"Breitenberg, Turcotte and Crooks",Indian,expensive,SoHo,12:01,18:12,1.9,false
+662,Bednar Group,French,cheap,Hudson Yards,11:02,21:22,3.2,false
+663,Weimann-Schroeder,Japanese,medium,Chinatown,11:38,21:45,4.1,true
+664,Kris-Goyette,Chinese,cheap,Murray Hill,12:37,21:11,4.4,false
+665,"Gleichner, Yost and Lakin",Italian,cheap,Hell's Kitchen,10:00,21:31,2.2,false
+666,"Rogahn, Pollich and Donnelly",Chinese,medium,Chinatown,10:25,23:37,3.7,true
+667,Goyette Inc,Chinese,medium,Tribeca,8:19,22:05,3.5,true
+668,"Hartmann, Kozey and Johnston",Chinese,expensive,Murray Hill,12:12,23:34,1.8,false
+669,"Emmerich, Stamm and Daugherty",American,medium,Hell's Kitchen,12:20,18:19,1.8,true
+670,"Nicolas, Harvey and Simonis",Fast Food,medium,Rose Hill,9:53,22:30,1.9,true
+671,Rogahn Group,American,cheap,Greenwich Village,9:17,22:36,2.4,false
+672,"Bernier, Flatley and Stoltenberg",Japanese,cheap,NoHo,11:33,19:54,4.6,false
+673,Fay-Grady,Chinese,cheap,Hell's Kitchen,12:16,19:35,3.3,true
+674,Parisian LLC,Fast Food,medium,Gramercy Park,10:05,22:28,2.1,false
+675,Ortiz and Sons,Indian,expensive,Kips Bay,8:51,21:48,3.5,true
+676,Farrell-Hane,French,cheap,Chelsea,11:58,23:58,3.0,false
+677,Borer and Sons,Mexican,expensive,Greenwich Village,12:21,19:31,2.3,true
+678,O'Conner-Cummerata,French,medium,Midtown,12:31,23:18,4.1,true
+679,"Ankunding, Gibson and Jakubowski",Japanese,medium,Midtown,9:55,23:39,2.8,true
+680,"Waters, Murazik and Wisoky",Japanese,expensive,Hudson Yards,9:01,23:46,2.6,false
+681,O'Keefe and Sons,French,medium,Hudson Yards,12:21,23:11,2.7,false
+682,Kuhlman Group,Italian,cheap,Rose Hill,11:28,20:54,4.4,true
+683,Dach Inc,Mexican,medium,Gramercy Park,12:15,21:12,3.3,true
+684,Harvey Inc,French,medium,Midtown,8:01,23:33,4.7,false
+685,"Schultz, Dibbert and Hudson",Japanese,medium,Greenwich Village,12:09,22:19,4.2,false
+686,Trantow-Davis,French,expensive,Rose Hill,9:05,23:11,1.2,false
+687,"Collins, Nicolas and Emmerich",Thai,cheap,Rose Hill,9:39,22:33,2.0,true
+688,"Sanford, Hirthe and Marquardt",American,medium,Chelsea,12:52,18:34,4.3,false
+689,"Kihn, Ebert and Jaskolski",Chinese,cheap,Kips Bay,11:57,20:42,2.1,true
+690,Johns-Ziemann,Fast Food,expensive,Gramercy Park,11:25,22:29,2.1,false
+691,"Hilll, MacGyver and Stehr",Korean,cheap,Rose Hill,12:15,23:52,3.3,false
+692,"Friesen, Little and Lemke",Fast Food,expensive,Greenwich Village,11:26,23:43,3.2,false
+693,Corkery Inc,Italian,cheap,Financial District,12:22,22:34,3.0,true
+694,Predovic LLC,Mexican,medium,Hell's Kitchen,10:02,23:58,1.0,false
+695,"Cartwright, Hegmann and Kuhlman",Indian,expensive,Kips Bay,11:38,20:33,4.3,true
+696,Hilll-Nolan,Thai,expensive,Rose Hill,9:52,21:43,4.3,false
+697,Kuphal and Sons,Thai,cheap,Kips Bay,11:08,20:14,1.4,true
+698,Heller Group,Indian,medium,Hudson Yards,12:41,19:22,4.4,true
+699,O'Conner LLC,Italian,cheap,Little Italy,10:57,18:33,3.8,true
+700,"Emard, Sporer and Dicki",Italian,cheap,Chelsea,8:34,23:27,4.1,true
+701,Moen Inc,Korean,medium,Murray Hill,12:05,20:34,3.7,false
+702,Kiehn-Senger,Japanese,cheap,Hudson Yards,9:14,22:02,4.0,false
+703,Reilly Group,Indian,cheap,Financial District,9:08,23:33,1.4,false
+704,Ziemann Inc,Indian,cheap,Battery Park City,12:40,23:00,2.3,true
+705,Nicolas Inc,Mexican,expensive,Battery Park City,10:34,18:42,2.4,false
+706,Moore-Wisoky,Indian,medium,NoHo,8:30,18:54,3.2,false
+707,Heaney LLC,French,cheap,NoHo,12:54,23:30,4.3,false
+708,Treutel Group,Italian,expensive,Chinatown,10:53,21:20,3.8,true
+709,Koelpin-Spencer,Indian,expensive,Chelsea,11:07,23:47,3.0,false
+710,Tromp LLC,Indian,cheap,Murray Hill,10:42,20:50,1.5,true
+711,Monahan-Rodriguez,Indian,cheap,SoHo,11:04,19:08,4.5,false
+712,Kerluke-Miller,Japanese,expensive,Midtown,10:25,18:28,3.5,false
+713,Hackett LLC,Fast Food,medium,Gramercy Park,11:53,23:05,3.5,true
+714,"O'Keefe, Wiza and Steuber",Japanese,expensive,Battery Park City,10:10,19:23,1.1,true
+715,"Hammes, Lesch and Armstrong",Mexican,cheap,Lower East Side,8:02,22:53,3.8,true
+716,Goyette Inc,Thai,expensive,Chinatown,10:16,22:08,1.8,true
+717,Boehm-Reichel,Fast Food,cheap,Little Italy,9:36,19:21,4.7,false
+718,Mitchell Inc,Thai,cheap,Rose Hill,8:18,23:53,2.3,false
+719,Botsford-Larson,Thai,expensive,Financial District,12:01,23:22,4.0,false
+720,Spinka Inc,Korean,expensive,SoHo,10:57,19:12,4.0,true
+721,McClure-Reichert,Korean,medium,Chelsea,12:33,18:41,3.5,true
+722,Dare Inc,Fast Food,cheap,Kips Bay,12:06,23:07,1.5,true
+723,Jaskolski and Sons,Mexican,medium,Chinatown,10:33,19:13,4.9,true
+724,"Moen, Orn and Boyer",French,cheap,Little Italy,8:50,20:35,2.1,false
+725,Tromp LLC,Mexican,expensive,Chelsea,12:51,23:20,2.5,true
+726,Olson-Ernser,French,medium,West Village,11:39,20:19,1.9,false
+727,"Kuphal, Torp and Crona",Fast Food,expensive,SoHo,12:21,21:40,2.5,false
+728,"Auer, Nolan and Cummings",Fast Food,expensive,Chinatown,12:20,21:37,1.8,true
+729,Goldner and Sons,Mexican,medium,Kips Bay,11:31,18:58,5.0,true
+730,Daniel-Beahan,Indian,cheap,Hell's Kitchen,8:06,22:13,3.4,true
+731,Christiansen-Bauch,Mexican,medium,West Village,10:27,20:04,4.3,true
+732,Bernier-Stanton,American,medium,Murray Hill,9:13,22:22,1.2,false
+733,"Braun, Hirthe and Stamm",Japanese,medium,Hudson Yards,9:44,18:32,2.7,false
+734,Nienow and Sons,Chinese,expensive,Greenwich Village,10:47,21:43,2.7,false
+735,McKenzie-Brakus,Italian,expensive,NoHo,8:09,23:58,1.8,true
+736,Harber Inc,Indian,cheap,Chinatown,9:56,22:42,4.9,false
+737,"Stracke, Kuhic and Ratke",French,medium,West Village,12:37,18:57,4.3,true
+738,Bogisich LLC,Korean,expensive,Chelsea,9:47,20:22,4.7,true
+739,Hand Inc,Japanese,cheap,Greenwich Village,11:56,20:13,1.1,false
+740,"Gibson, Smitham and Mohr",Chinese,expensive,Little Italy,10:31,20:00,2.7,true
+741,"Padberg, Rath and Effertz",French,expensive,Hudson Yards,8:31,19:14,1.6,false
+742,Breitenberg-Bernier,Korean,expensive,Clinton,12:57,19:13,4.4,true
+743,Schmidt-Gorczany,Chinese,expensive,Lower East Side,12:11,19:40,4.5,true
+744,Metz Inc,Fast Food,cheap,Chinatown,11:51,22:04,2.8,false
+745,Jenkins Inc,French,medium,Midtown,9:33,20:14,2.0,false
+746,Yost and Sons,Korean,cheap,Chelsea,9:02,19:56,1.4,false
+747,Hickle and Sons,Fast Food,medium,Hudson Yards,11:56,18:16,3.0,true
+748,Connelly-Metz,Chinese,expensive,Clinton,12:50,23:11,2.8,true
+749,"Greenholt, Batz and Stehr",American,expensive,Midtown,9:19,18:43,1.5,true
+750,Feil LLC,Indian,cheap,Tribeca,12:19,21:09,1.6,true
+751,Schmeler Group,Mexican,medium,Rose Hill,9:37,22:58,3.4,false
+752,Labadie Group,Indian,expensive,Chelsea,9:48,22:59,4.6,true
+753,"Brown, Hodkiewicz and Treutel",Mexican,medium,Chelsea,8:41,18:51,4.5,true
+754,Bartoletti Group,Mexican,cheap,Clinton,10:06,18:50,2.8,true
+755,Beier and Sons,Fast Food,expensive,Murray Hill,12:45,20:43,4.3,false
+756,"Little, Price and Littel",Japanese,cheap,Rose Hill,9:18,22:09,4.9,true
+757,"Schowalter, Hahn and Bode",Indian,cheap,Gramercy Park,12:23,22:15,1.8,true
+758,Daniel and Sons,Mexican,cheap,Clinton,9:58,20:38,3.3,true
+759,Brekke Inc,Mexican,expensive,Battery Park City,10:25,22:02,4.5,true
+760,Goyette and Sons,Fast Food,cheap,Battery Park City,11:33,18:17,4.7,false
+761,"Rath, Crona and Jenkins",Indian,cheap,Midtown,11:10,19:27,2.2,false
+762,Crona-Jacobi,Thai,cheap,Midtown,9:38,22:52,2.5,false
+763,Treutel-Mosciski,Japanese,medium,Greenwich Village,11:58,19:20,2.9,false
+764,Rempel-Pouros,French,cheap,Kips Bay,10:08,23:44,4.4,true
+765,Erdman-Koss,Thai,medium,West Village,12:53,23:21,3.0,true
+766,Reichel-Dare,French,expensive,Hudson Yards,9:28,20:45,3.8,true
+767,Schulist-Paucek,Italian,cheap,Lower East Side,8:17,23:28,1.5,true
+768,Wilderman LLC,Korean,cheap,Hell's Kitchen,11:11,19:37,3.0,true
+769,Ryan-Schneider,Korean,cheap,Kips Bay,9:12,21:32,3.8,false
+770,Reichel Group,American,medium,NoHo,9:57,19:43,3.6,true
+771,Pacocha and Sons,Japanese,expensive,Little Italy,10:37,19:19,1.3,false
+772,"Johnson, Dicki and Zboncak",Fast Food,expensive,Hudson Yards,8:23,21:22,2.0,false
+773,"Morissette, Wisoky and Kulas",Korean,expensive,Greenwich Village,9:32,18:14,2.5,true
+774,"Gleichner, Veum and Carroll",Italian,medium,West Village,12:14,23:10,4.3,false
+775,Daniel Inc,Chinese,expensive,Clinton,8:54,20:07,1.5,true
+776,Ziemann-Morar,Japanese,cheap,Gramercy Park,11:15,21:36,1.2,true
+777,Bernier-Wilkinson,Chinese,expensive,Tribeca,12:23,18:45,3.6,true
+778,Deckow Group,Japanese,medium,Murray Hill,10:20,21:59,5.0,false
+779,Luettgen Group,Italian,medium,West Village,11:26,18:46,1.1,true
+780,Koepp Inc,American,medium,Rose Hill,11:12,23:34,2.8,true
+781,Robel LLC,Mexican,cheap,Hudson Yards,10:19,18:58,1.3,false
+782,VonRueden Inc,Japanese,medium,Little Italy,10:38,18:36,3.0,false
+783,"Hane, Carter and Yost",Mexican,cheap,West Village,11:46,18:10,2.3,false
+784,"Shanahan, Rolfson and Little",Italian,cheap,Little Italy,10:21,23:14,3.0,true
+785,"Swaniawski, Lakin and Torphy",French,medium,Chinatown,11:47,21:17,2.0,false
+786,Willms-Mann,Italian,expensive,Battery Park City,10:32,19:50,2.1,false
+787,"Lueilwitz, Goodwin and Pollich",Indian,medium,Chelsea,10:41,20:19,2.5,true
+788,Wolf-Sawayn,Japanese,expensive,Little Italy,8:17,23:39,1.9,false
+789,Cruickshank and Sons,Japanese,cheap,Kips Bay,12:48,21:49,3.6,false
+790,Friesen-Hansen,Japanese,cheap,Kips Bay,11:07,21:49,1.3,true
+791,"Howell, Wiza and Gleason",Mexican,medium,Rose Hill,11:34,18:19,4.8,true
+792,Batz-Schaefer,Indian,cheap,Chelsea,12:01,21:24,1.4,false
+793,Smitham and Sons,Fast Food,cheap,Kips Bay,11:38,18:30,1.9,false
+794,"Macejkovic, Reynolds and Zieme",Thai,expensive,Hudson Yards,9:38,22:46,1.1,true
+795,"Monahan, Fahey and Lind",Indian,expensive,Chinatown,11:46,18:19,1.2,false
+796,Jacobs LLC,Indian,medium,Tribeca,12:09,22:07,1.4,false
+797,"Bogisich, Fisher and Hudson",Japanese,cheap,Tribeca,12:11,22:31,3.0,true
+798,Hauck LLC,Fast Food,medium,Financial District,8:36,20:35,1.0,false
+799,"Bergstrom, Price and Boyle",Japanese,medium,SoHo,11:38,22:09,3.3,false
+800,"Ziemann, Haley and Davis",Japanese,medium,Battery Park City,9:26,18:53,3.8,true
+801,Schimmel-Daniel,Chinese,expensive,Little Italy,10:46,21:56,3.2,true
+802,Tremblay-Romaguera,Japanese,expensive,Chinatown,12:05,22:12,4.3,false
+803,Crooks-Schneider,Chinese,medium,Chinatown,12:56,20:08,3.0,false
+804,Lowe-Hane,Fast Food,expensive,West Village,12:23,20:57,2.8,false
+805,Crooks LLC,Korean,expensive,Hell's Kitchen,11:58,22:43,3.1,false
+806,Schmitt-Rolfson,Japanese,medium,Rose Hill,8:52,21:51,1.0,false
+807,Wolff-Bergnaum,Thai,medium,Kips Bay,8:24,21:07,1.3,false
+808,"Ondricka, Steuber and Spencer",Italian,cheap,Financial District,8:19,22:20,3.6,true
+809,"Goyette, Lesch and Leannon",Indian,cheap,Hell's Kitchen,8:58,21:37,1.5,false
+810,Cartwright LLC,French,expensive,Kips Bay,12:46,19:21,2.2,false
+811,"Bins, Purdy and Kunze",Indian,medium,Hell's Kitchen,11:27,21:23,3.1,true
+812,Runolfsson LLC,Indian,expensive,NoHo,10:25,21:29,3.9,false
+813,"Dibbert, Stiedemann and Bruen",Japanese,medium,Rose Hill,8:01,23:38,3.9,false
+814,"Renner, Bashirian and Wunsch",Italian,cheap,Chinatown,8:47,23:39,3.5,true
+815,Rutherford-Batz,Japanese,expensive,Lower East Side,12:16,19:39,1.6,false
+816,Berge Group,Korean,expensive,Murray Hill,12:24,23:00,4.2,false
+817,"Upton, Champlin and Douglas",Chinese,cheap,Hell's Kitchen,9:26,20:45,1.2,false
+818,Hirthe-Turner,Indian,expensive,Kips Bay,10:08,21:48,3.9,true
+819,"Zieme, Welch and Kutch",French,cheap,Gramercy Park,9:38,23:41,1.8,true
+820,"Gerlach, Rosenbaum and Wintheiser",French,cheap,Rose Hill,9:45,20:20,3.9,false
+821,Mosciski-Emmerich,American,expensive,Greenwich Village,11:37,19:01,1.0,false
+822,Treutel Inc,Japanese,cheap,Hell's Kitchen,11:26,18:35,2.2,false
+823,Rosenbaum-Feeney,French,cheap,Hudson Yards,8:59,20:09,3.6,true
+824,Roberts Inc,Fast Food,medium,SoHo,10:47,23:49,4.3,false
+825,"Fahey, Powlowski and Hodkiewicz",Mexican,medium,Murray Hill,10:29,21:46,1.2,true
+826,Jakubowski and Sons,Indian,medium,Lower East Side,12:57,20:49,4.3,false
+827,"Dickinson, Casper and Weissnat",Indian,cheap,Chinatown,10:17,22:10,3.0,false
+828,"Russel, Green and VonRueden",Mexican,expensive,West Village,12:14,20:09,1.3,false
+829,Simonis Inc,Chinese,cheap,Battery Park City,10:26,22:43,4.5,false
+830,"Volkman, Treutel and Gislason",Indian,medium,Rose Hill,12:32,18:32,4.3,true
+831,"Bauch, Brekke and Haag",Chinese,medium,Rose Hill,11:09,20:25,3.5,false
+832,Gleason-Luettgen,American,cheap,West Village,8:00,20:32,2.7,true
+833,Larkin-Bahringer,Chinese,medium,Gramercy Park,8:48,22:10,1.7,false
+834,Hermiston LLC,American,cheap,Murray Hill,12:59,23:58,3.0,true
+835,Prosacco and Sons,Japanese,medium,SoHo,10:53,23:26,3.3,true
+836,Wolff-Shields,French,expensive,SoHo,8:56,23:48,4.3,true
+837,Veum-Davis,Chinese,medium,Midtown,11:54,20:27,4.6,false
+838,"White, Rolfson and Hilll",Fast Food,medium,Greenwich Village,12:39,19:11,1.3,true
+839,"Gorczany, Macejkovic and Crooks",Fast Food,cheap,Tribeca,11:42,22:08,1.0,false
+840,"Davis, Okuneva and Swaniawski",Japanese,medium,Hudson Yards,12:38,19:50,1.4,false
+841,"Cremin, Wintheiser and Ondricka",Chinese,cheap,Chelsea,8:17,23:56,4.2,true
+842,Deckow-Bosco,American,expensive,Greenwich Village,9:27,23:30,4.6,false
+843,Jacobi-Dietrich,Chinese,cheap,Lower East Side,12:22,23:48,4.6,false
+844,"Streich, Ritchie and Herman",Indian,cheap,SoHo,11:15,23:07,1.2,true
+845,"Boyle, Friesen and Erdman",Italian,cheap,Chelsea,10:08,18:32,2.4,false
+846,Rohan Group,Korean,medium,Hudson Yards,11:06,20:38,3.2,true
+847,Fahey-Kreiger,American,cheap,West Village,10:06,19:16,3.9,false
+848,Gusikowski-Johns,Japanese,cheap,Lower East Side,12:34,22:22,4.6,false
+849,Borer LLC,Chinese,cheap,SoHo,12:49,23:13,3.8,false
+850,"Orn, Witting and Emard",Mexican,medium,Financial District,8:29,19:07,4.3,false
+851,Terry-Koepp,Thai,expensive,Chinatown,12:57,22:38,4.4,true
+852,"Bernhard, Kovacek and Nicolas",Mexican,medium,SoHo,12:45,19:29,3.5,true
+853,Emmerich-Botsford,Indian,cheap,Hell's Kitchen,11:05,22:05,4.2,false
+854,Muller-Schaefer,Korean,medium,Tribeca,9:16,21:20,1.1,false
+855,"Prohaska, Murray and Wintheiser",Italian,expensive,Midtown,10:46,23:08,2.9,true
+856,Gulgowski and Sons,Fast Food,cheap,Chinatown,12:29,23:17,3.9,true
+857,Feil-Rippin,Korean,cheap,Financial District,9:45,23:40,2.8,false
+858,Dooley-Gleichner,French,medium,Lower East Side,9:24,22:46,2.7,false
+859,"Reichel, Rosenbaum and Spinka",Korean,expensive,Hell's Kitchen,9:12,18:32,2.7,false
+860,Swaniawski Inc,Korean,cheap,Chinatown,11:37,18:57,3.8,false
+861,Mraz and Sons,American,medium,Hell's Kitchen,8:52,18:31,1.4,true
+862,Hessel-Schmidt,American,medium,Battery Park City,9:34,20:14,1.6,true
+863,Morissette Group,Italian,cheap,Greenwich Village,12:26,18:49,4.4,false
+864,Witting LLC,Japanese,expensive,Murray Hill,11:04,18:11,3.4,true
+865,Corkery-Hills,Japanese,expensive,Gramercy Park,8:56,19:30,2.0,false
+866,Schumm-Yundt,Italian,cheap,SoHo,12:18,22:04,4.0,true
+867,Wisoky-Morar,American,medium,Battery Park City,9:38,23:37,3.6,true
+868,"Kemmer, Terry and Howe",American,medium,NoHo,12:27,20:20,2.5,false
+869,"Quitzon, Maggio and Schultz",Italian,medium,Battery Park City,8:02,23:54,3.1,true
+870,Champlin Inc,Thai,expensive,Little Italy,8:02,19:33,2.3,false
+871,Trantow Inc,Japanese,expensive,Midtown,10:26,22:46,2.1,true
+872,Lakin-Trantow,Chinese,expensive,Tribeca,8:57,20:26,4.9,false
+873,Kohler-Effertz,French,cheap,SoHo,9:40,23:32,2.0,false
+874,"Daniel, Cremin and Homenick",Indian,cheap,Clinton,8:38,23:05,1.7,true
+875,Senger Inc,Indian,medium,West Village,9:04,21:38,4.8,false
+876,Kautzer-Mosciski,Chinese,medium,NoHo,9:39,22:08,4.7,true
+877,Streich LLC,Chinese,expensive,NoHo,11:16,21:42,3.1,true
+878,"Murphy, Graham and King",American,cheap,Tribeca,12:59,18:21,3.1,false
+879,McLaughlin-Jacobson,Korean,cheap,Rose Hill,9:59,18:32,1.4,true
+880,Prosacco-Huel,Indian,expensive,Gramercy Park,10:38,20:23,3.3,false
+881,Wolf-Langosh,Indian,cheap,Clinton,11:59,18:50,1.8,true
+882,Jenkins-Kirlin,American,medium,Hudson Yards,9:07,21:08,3.0,false
+883,Robel LLC,Thai,expensive,Rose Hill,10:35,22:52,1.9,true
+884,Bogan Group,Thai,medium,SoHo,12:27,18:57,3.4,false
+885,"Ankunding, Kutch and Rosenbaum",Thai,medium,Rose Hill,8:57,20:40,2.6,false
+886,Lebsack-Crist,Italian,medium,Lower East Side,8:46,22:51,4.4,false
+887,"Blanda, Quigley and Bednar",Chinese,cheap,West Village,8:42,19:21,3.5,false
+888,Hermiston-Considine,Italian,medium,Little Italy,10:47,21:11,3.6,false
+889,Weber Group,French,expensive,Greenwich Village,9:22,21:46,1.9,false
+890,Hackett-Rippin,Chinese,medium,Rose Hill,10:30,23:51,1.7,false
+891,Harris Inc,Japanese,expensive,Clinton,11:20,21:21,2.1,true
+892,Feeney and Sons,French,expensive,Midtown,9:46,19:20,1.4,false
+893,Rau LLC,French,medium,Lower East Side,10:30,19:14,1.3,true
+894,Farrell-Lemke,Italian,expensive,West Village,9:12,18:53,4.7,false
+895,Cassin Group,American,medium,NoHo,12:31,21:42,1.4,false
+896,"Nader, Stroman and Hamill",American,expensive,Battery Park City,9:15,18:18,1.5,false
+897,Ziemann-McCullough,Fast Food,expensive,Hell's Kitchen,9:09,23:12,4.2,true
+898,"Larkin, Spencer and Olson",Chinese,medium,Battery Park City,12:00,20:04,1.7,true
+899,"Braun, Stehr and Koch",American,expensive,West Village,12:45,19:06,4.4,true
+900,Cronin LLC,Japanese,cheap,Chelsea,9:07,19:10,1.5,true
+901,Bernhard LLC,Indian,expensive,Financial District,10:40,21:31,4.2,false
+902,Balistreri Inc,American,expensive,Financial District,9:30,21:27,3.7,true
+903,Schmeler-Mueller,Italian,cheap,Chinatown,12:18,21:50,1.6,false
+904,Prosacco Inc,Korean,cheap,Financial District,11:09,21:35,4.3,true
+905,Hirthe Group,Korean,expensive,West Village,9:38,21:56,1.7,true
+906,"Fisher, Ernser and Corwin",American,medium,Lower East Side,12:21,21:56,1.5,true
+907,Robel-Crist,Thai,expensive,Rose Hill,12:08,21:26,2.6,false
+908,Dooley and Sons,Chinese,expensive,SoHo,11:54,23:37,1.8,false
+909,Romaguera Group,Chinese,cheap,Rose Hill,11:13,22:43,2.2,true
+910,Mayert-Baumbach,Japanese,cheap,Lower East Side,8:08,19:42,3.8,true
+911,Kreiger-McClure,Thai,cheap,Hudson Yards,10:19,20:57,2.9,true
+912,"McCullough, Gusikowski and Sanford",Italian,expensive,NoHo,9:36,18:45,2.4,false
+913,Hane-Haley,Korean,expensive,SoHo,9:17,18:54,4.7,true
+914,"Mante, Kuhlman and Emard",French,medium,Gramercy Park,9:39,23:13,1.3,true
+915,Thompson Group,Chinese,medium,NoHo,11:38,22:17,2.5,false
+916,Weissnat LLC,Italian,medium,Battery Park City,8:42,20:06,3.2,true
+917,Trantow-Boehm,Chinese,cheap,Clinton,10:47,23:30,4.0,false
+918,"Goodwin, Russel and Homenick",Chinese,medium,Hudson Yards,11:39,19:00,2.4,false
+919,"Keeling, Towne and Nader",Italian,cheap,Tribeca,10:31,20:13,4.6,false
+920,Hudson-Stamm,Italian,medium,Greenwich Village,8:51,18:34,1.5,true
+921,Lesch and Sons,Italian,expensive,Greenwich Village,10:58,19:22,4.5,true
+922,Marvin-Wunsch,Indian,expensive,SoHo,8:03,20:47,3.6,false
+923,Rippin-Braun,American,expensive,Battery Park City,10:46,20:19,3.8,true
+924,Harber-Ankunding,Chinese,cheap,Little Italy,9:16,23:18,1.2,true
+925,Fritsch and Sons,Thai,expensive,SoHo,12:50,18:22,4.9,true
+926,Gerlach and Sons,Chinese,expensive,Lower East Side,8:46,20:03,4.3,false
+927,Leffler-Farrell,French,cheap,Lower East Side,10:50,22:31,1.1,true
+928,Will-Ankunding,Fast Food,medium,Murray Hill,10:02,21:07,2.2,true
+929,"Bernhard, Mraz and Becker",Thai,expensive,SoHo,9:07,22:45,3.0,false
+930,Wintheiser LLC,Korean,medium,NoHo,9:33,19:23,1.8,true
+931,"Prohaska, Kub and Ward",Chinese,medium,Kips Bay,12:07,21:54,3.6,true
+932,"Little, Terry and Christiansen",Korean,expensive,Financial District,10:01,22:15,3.8,true
+933,Hammes-Murray,Indian,expensive,West Village,9:59,18:20,3.5,true
+934,Weber-Macejkovic,Fast Food,cheap,SoHo,10:31,19:32,1.8,false
+935,"Glover, Walker and Simonis",Italian,cheap,Battery Park City,11:53,19:46,2.5,true
+936,Wintheiser-Gislason,American,medium,NoHo,12:14,20:17,1.8,false
+937,Fisher LLC,Indian,medium,Gramercy Park,8:45,22:10,3.6,true
+938,Stoltenberg LLC,Italian,expensive,Murray Hill,12:58,18:53,3.2,false
+939,Kilback-Cruickshank,Mexican,cheap,Hell's Kitchen,10:08,21:25,4.4,false
+940,"Funk, Lakin and Dicki",Japanese,expensive,NoHo,9:00,20:35,3.3,false
+941,"Kohler, Reichel and Kling",Thai,expensive,SoHo,11:10,19:06,2.6,false
+942,O'Reilly-Harber,Korean,medium,NoHo,12:36,23:06,2.4,false
+943,Stroman-Fadel,Chinese,cheap,Tribeca,11:47,22:53,3.0,false
+944,Beahan-Schneider,Japanese,cheap,Midtown,12:25,20:26,2.6,false
+945,"Wintheiser, Raynor and Mills",Korean,cheap,SoHo,9:41,19:46,2.4,false
+946,"Rowe, Hermann and Davis",Indian,medium,Little Italy,11:27,23:38,2.0,true
+947,Jakubowski-Hickle,Fast Food,cheap,SoHo,12:50,23:29,1.7,false
+948,Goyette Group,Indian,cheap,Lower East Side,10:12,20:16,4.9,true
+949,"Emard, Maggio and Moore",Italian,cheap,Battery Park City,12:17,21:25,1.8,false
+950,"Jast, Kutch and Becker",French,cheap,Murray Hill,8:46,20:18,1.7,true
+951,"Hayes, Reichert and Schiller",Fast Food,expensive,Chelsea,10:42,20:47,1.4,false
+952,Schamberger-Fay,Korean,medium,Financial District,8:22,21:00,1.9,false
+953,"Morissette, Berge and Fadel",Chinese,expensive,Kips Bay,10:48,23:24,2.9,false
+954,Boyle Inc,Japanese,expensive,Hell's Kitchen,8:03,18:13,3.0,true
+955,Crona-Hartmann,Japanese,medium,West Village,9:21,19:34,1.8,true
+956,Cormier Group,French,medium,Battery Park City,9:33,18:53,4.9,false
+957,Rogahn Inc,Fast Food,cheap,Rose Hill,8:11,20:30,4.9,true
+958,"Leannon, Waelchi and Hickle",Korean,medium,Greenwich Village,10:07,21:01,2.6,false
+959,"Considine, Schuster and Thiel",Chinese,expensive,SoHo,9:33,22:56,4.5,true
+960,Dooley-Berge,French,medium,Financial District,9:12,20:39,3.2,false
+961,"Howe, Rutherford and Hudson",Japanese,medium,Greenwich Village,8:10,21:57,4.0,false
+962,Leannon and Sons,French,expensive,Midtown,8:16,20:36,3.9,true
+963,Willms Group,Fast Food,expensive,Rose Hill,11:15,22:01,3.0,true
+964,Lehner-McDermott,Italian,expensive,Midtown,12:55,22:28,3.6,false
+965,"Gutmann, Boyle and Cruickshank",Chinese,cheap,Chelsea,9:25,22:16,5.0,false
+966,"Hermann, Goyette and Herman",Fast Food,cheap,Little Italy,11:12,21:33,2.1,false
+967,Gaylord LLC,American,expensive,Midtown,9:29,22:13,2.7,true
+968,Heaney-Conroy,Korean,medium,Chelsea,8:18,22:46,4.4,true
+969,McLaughlin-Gislason,Mexican,cheap,NoHo,12:54,22:16,4.2,true
+970,Stracke-Zemlak,Italian,medium,Rose Hill,11:58,19:56,2.8,true
+971,Monahan-Heller,Indian,medium,Little Italy,11:28,19:09,5.0,false
+972,Stoltenberg-Prohaska,Italian,medium,Gramercy Park,11:00,23:22,1.5,true
+973,"Kub, Jacobi and Dare",French,cheap,Kips Bay,9:18,20:02,2.9,true
+974,"Cronin, Kuphal and Conroy",American,cheap,Little Italy,8:39,23:55,4.1,false
+975,Beer-Hilll,Korean,cheap,Rose Hill,9:30,20:12,2.1,false
+976,"Sauer, Pollich and Dooley",Italian,medium,NoHo,11:10,18:32,1.0,true
+977,Spencer-Kovacek,Indian,cheap,Little Italy,11:13,18:14,3.2,true
+978,Towne-Kovacek,Japanese,cheap,Midtown,12:09,21:15,4.2,true
+979,"Hudson, Romaguera and Lemke",American,cheap,Greenwich Village,8:58,22:11,4.7,true
+980,"Rau, Johnston and Wilkinson",Italian,expensive,Gramercy Park,12:06,20:04,2.6,false
+981,"Schaden, Jakubowski and Walsh",Italian,expensive,Kips Bay,9:11,19:52,3.4,false
+982,"Swaniawski, Mayert and Harris",Japanese,cheap,Clinton,10:04,18:55,2.5,false
+983,"Bartoletti, Lemke and Crist",French,cheap,Rose Hill,10:03,21:08,1.9,false
+984,Lynch Group,Chinese,cheap,Greenwich Village,12:58,18:43,3.5,true
+985,Carroll and Sons,French,cheap,Rose Hill,10:50,23:54,3.6,true
+986,O'Conner LLC,Mexican,expensive,Chelsea,8:10,23:32,3.1,false
+987,Hackett Inc,Thai,expensive,Hudson Yards,10:38,21:52,2.9,true
+988,Trantow and Sons,Japanese,medium,Greenwich Village,10:20,18:04,2.1,false
+989,Huels-Gutmann,Japanese,medium,Midtown,10:30,23:14,4.4,false
+990,Bode-Anderson,Chinese,cheap,Clinton,11:15,23:54,3.9,true
+991,Kunze-Rosenbaum,Japanese,cheap,Greenwich Village,12:55,23:28,1.8,true
+992,Waelchi and Sons,Fast Food,expensive,Gramercy Park,10:16,18:29,4.6,true
+993,Rippin-Crist,Chinese,expensive,Gramercy Park,12:25,20:10,1.3,false
+994,Lockman-McClure,Mexican,expensive,Rose Hill,9:37,20:55,1.3,true
+995,"Denesik, Senger and Hickle",American,expensive,Chelsea,10:28,21:27,2.6,false
+996,Dibbert LLC,Mexican,medium,Little Italy,11:02,23:42,2.7,true
+997,Upton-Rohan,Italian,medium,West Village,12:34,19:36,4.2,true
+998,Koch-Walker,Italian,cheap,Chinatown,12:06,22:17,2.1,true
+999,Miller and Sons,American,cheap,West Village,11:20,23:40,4.4,false
+1000,Kessler-Pollich,Italian,medium,Kips Bay,12:28,23:48,1.5,false

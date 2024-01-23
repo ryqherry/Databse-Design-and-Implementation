@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Order posts by number of likes</h2>
+<p>This page shows information pulled from a MongoDB database collection.
+        
+    {% for doc in docs %}
+    <div>
+        <hr class="solid">
+        <p class="post">
+            Posted by {{doc.name}} in {{doc.category}} at {{ doc.created_at.strftime("%H:%M on %d %B %Y") }}
+        </p>
+        <p>
+            {{ doc.message }}
+        </p>
+        
+        {% if doc.image != "" %}
+        <p>
+            <img src={{doc.image}} alt="image" width="500" height=auto>
+        </p>
+        {% endif %}
+
+        <p class="post">
+            Liked by {{doc.like}} people
+        </p>
+
+        {% if doc.comment != "" %}
+        <blockquote>
+        <p class="post">
+            Commented by {{doc.commentName}} at {{doc.commented_at.strftime("%H:%M on %d %B %Y") }}
+        </p>
+        <p>
+            {{ doc.comment }}
+        </p>
+        </blockquote>
+        {% endif %}
+            
+    </div>
+    {%endfor%}
+</p>
+{% endblock %}
